@@ -1,6 +1,6 @@
 # Systems programming
 
-## Books
+## Operating systems
 
 Andrew Tanenbaum,‎ Herbert Bos (2014) **Modern Operating Systems** (4th Edition). ISBN 978-0133591620
 
@@ -19,6 +19,9 @@ Pavel Yosifovich,‎ Mark Russinovich,‎ David Solomon,‎ Alex Ionescu (2017) 
 ## Memory
 
 Topics: memory, interrupts, system calls, rings, segmentation, paging, address space, virtual memory
+
+Ulrich Drepper (2007) **What every programmer should know about memory**  
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
 
 CPU Rings, Privilege, and Protection | Many But Finite  
 https://manybutfinite.com/post/cpu-rings-privilege-and-protection/
