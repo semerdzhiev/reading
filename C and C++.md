@@ -57,8 +57,6 @@ David Vandevoorde, Nicolai Josuttis (2017) **C++ Templates - The Complete Guide*
 Five Tips for Floating Point Programming  
 http://www.codeproject.com/Articles/29637/Five-Tips-for-Floating-Point-Programming
 
-Reese, Richard (2013) **Understanding and Using C Pointers - Core techniques for memory management**. O'Reilly Media
-
 std::basic_filebuf::open method (includes detailed description of the open mode flags)  
 http://en.cppreference.com/w/cpp/io/basic_filebuf/open
 
