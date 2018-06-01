@@ -95,6 +95,27 @@ https://stackoverflow.com/questions/24358105/do-modern-oss-use-paging-and-segmen
 Physical and Virtual Memory in Windows 10 - Microsoft Community  
 https://answers.microsoft.com/en-us/windows/forum/windows_10-performance/physical-and-virtual-memory-in-windows-10/e36fb5bc-9ac8-49af-951c-e7d39b979938
 
+Unmanaged Memory Fragmentation -- an old story  
+Rico Mariani's Performance Tidbits  
+https://blogs.msdn.microsoft.com/ricom/2006/02/02/unmanaged-memory-fragmentation-an-old-story/
+
+
+
+## Algorithms
+
+Lock-free algorithms: Choosing a unique value (solutions) - The Old New Thing  
+https://blogs.msdn.microsoft.com/oldnewthing/20110406-01/?p=11013
+
+Lock-free algorithms: The singleton constructor - The Old New Thing  
+https://blogs.msdn.microsoft.com/oldnewthing/20110406-00/?p=11023
+
+Lock-free algorithms: The try/commit/(try again) pattern - The Old New Thing  
+https://blogs.msdn.microsoft.com/oldnewthing/20110412-00/?p=10963/
+
+Interlocked operations don’t solve everything - The Old New Thing  
+https://blogs.msdn.microsoft.com/oldnewthing/20040915-00/?p=37863/
+
+
 
 
 ## Other
