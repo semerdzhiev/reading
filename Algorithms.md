@@ -47,7 +47,11 @@ http://gameprogrammingpatterns.com/data-locality.html
 Bloch, Joshua (2006) **Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken**  
 https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
 
+ Project Nayuki. **Next lexicographical permutation algorithm** 
+https://www.nayuki.io/page/next-lexicographical-permutation-algorithm
 
+Ruslan writes code. **Why does Heap's algorithm work?** 
+http://ruslanledesma.com/2016/06/17/why-does-heap-work.html
 
 ## Tools, Cheat Sheets, Visualizations, etc.
 Big-O Algorithm Complexity Cheat Sheet.  
