@@ -1,8 +1,11 @@
 # C and C++
 
-## Official Sources
+
 ISO C++.  
 https://isocpp.org/
+
+ISO C++: Get Started!  
+https://isocpp.org/get-started
 
 C++ Core Guidelines  
 https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
@@ -13,13 +16,26 @@ http://www.stroustrup.com/bs_faq.html
 
 
 ## Books (in English)
-Brian Kernighan, Dennis Ritchie (1988) **The C Programming Language**, 2 ed. Englewood Cliffs, NJ: Prentice Hall
+Brian Kernighan, Dennis Ritchie (1988) **The C Programming Language**, 2nd ed. Englewood Cliffs, NJ: Prentice Hall
 
-Bjarne Stroustrup (1997) **The C++ Programming Language**, 3 ed. Addison-Wesley
+Bjarne Stroustrup (2013) **The C++ Programming Language**, 4th ed.  
+http://www.stroustrup.com/4th.html
 
-Bjarne Stroustrup (2013) **The C++ Programming Language**, 4 ed. Addison-Wesley
+Bjarne Stroustrup (2014) **Programming: Principles and Practice Using C++**, 2nd ed.
+http://www.stroustrup.com/programming.html
 
-Bjarne Stroustrup (2008) **Principles and Practice Using C++**. Addison-Wesley.
+Bjarne Stroustrup (2018) **A Tour of C++**, 2nd ed.  
+http://www.stroustrup.com/tour2.html
+
+David Vandevoorde, Nicolai Josuttis (2017) **C++ Templates - The Complete Guide**, 2nd ed.  
+http://www.tmplbook.com/
+
+Nicolai M. Josuttis (2012) "**The C++ Standard Library - A Tutorial and Reference**", 2nd ed.  
+http://cppstdlib.com/
+
+Nicolai M. Josuttis (TBA) "**C++17 - The Complete Guide**"  
+http://www.josuttis.com/cppstd17/  
+https://leanpub.com/cpp17
 
 Ben Klemens (2012) **21st Century C: C Tips from the New School**. O'Reilly Media
 
@@ -27,9 +43,13 @@ Richard Reese (2013) **Understanding and Using C Pointers - Core techniques for 
 
 Michael Dawson (2011) **Beginning C++ through game programming**, 3rd ed. Course Technology. ISBN: 9781435457423
 
-Andrei Alexandrescu (2001) **Modern C++ Design**. Addison-Wesley. ISBN: 0201704315
+Stanley Lippman (2012) **C++ Primer**, 5th ed.
 
-David Vandevoorde, Nicolai Josuttis (2017) **C++ Templates - The Complete Guide**, 2nd ed. Addison-Wesley. ISBN 978-0321714121.
+Herb Sutter, Andrei Alexandrescu (2001) **C++ Coding Standards: 101 Rules, Guidelines, and Best Practices**
+http://erdani.com/index.php/books/ccs/
+
+Andrei Alexandrescu (2001) **Modern C++ Design**  
+http://erdani.com/index.php/books/modern-c-design/
 
 
 ## Books (in Bulgarian)
