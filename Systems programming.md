@@ -117,7 +117,6 @@ https://blogs.msdn.microsoft.com/oldnewthing/20040915-00/?p=37863/
 
 
 
-
 ## Other
 
 Notes from the Intelpocalypse [LWN.net]  

@@ -43,7 +43,6 @@ http://www.cs.umd.edu/~meesh/351/mount/251lects.ps
 
 
 
-
 ## Articles, Blog Posts, etc.
 
 Nystrom, Bob. **Data Locality**.  
@@ -58,7 +57,10 @@ https://www.nayuki.io/page/next-lexicographical-permutation-algorithm
 Ruslan writes code. **Why does Heap's algorithm work?**  
 http://ruslanledesma.com/2016/06/17/why-does-heap-work.html
 
+
+
 ## Tools, Cheat Sheets, Visualizations, etc.
+
 Big-O Algorithm Complexity Cheat Sheet.  
 http://bigocheatsheet.com/
 
@@ -74,6 +76,7 @@ http://www.sorting-algorithms.com/
 
 
 ## Sites With Lists of Problems, Competitions, etc.
+
 https://arena.maycamp.com/
 
 https://projecteuler.net/
@@ -107,4 +110,3 @@ http://codechef.com
 http://interviewbit.com
 
 http://hackerrank.com
-

@@ -1,6 +1,5 @@
 # C and C++
 
-
 ISO C++.  
 https://isocpp.org/
 
@@ -17,7 +16,9 @@ The Definitive C++ Book Guide and List
 https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282
 
 
+
 ## Books (in English)
+
 Brian Kernighan, Dennis Ritchie (1988) **The C Programming Language**, 2nd ed. Englewood Cliffs, NJ: Prentice Hall
 
 Bjarne Stroustrup (2013) **The C++ Programming Language**, 4th ed.  
@@ -54,6 +55,7 @@ Andrei Alexandrescu (2001) **Modern C++ Design**
 http://erdani.com/index.php/books/modern-c-design/
 
 
+
 ## Books (in Bulgarian)
 
 Браян Керниган, Денис Ричи (2004) **Програмният език C**. ЗеСТ Прес
@@ -85,6 +87,7 @@ http://en.cppreference.com/w/cpp/io/basic_filebuf/open
 
 
 ## Design Patterns
+
 Ерик Гама, Ричард Хелм, Ралф Джонсън, Джон Влисидес (бандата на четиримата) (2005) **Шаблони за дизайн**. СофтПрес. ISBN:9546853526
 
 Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides (aka Gang of Four, GoF) (1994) **Design Patterns: Elements of Reusable Object-Oriented Software**. ISBN 978-0201633610.
@@ -98,6 +101,7 @@ https://sourcemaking.com/design_patterns
 
 
 ## Online References and Tutorials
+
 C++ Language Tutorial.  
 http://www.cplusplus.com/doc/tutorial/
 
