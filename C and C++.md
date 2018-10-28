@@ -13,6 +13,8 @@ https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 Bjarne Stroustrup's FAQ  
 http://www.stroustrup.com/bs_faq.html
 
+The Definitive C++ Book Guide and List  
+https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282
 
 
 ## Books (in English)
