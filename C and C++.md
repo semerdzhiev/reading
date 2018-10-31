@@ -84,7 +84,8 @@ http://www.codeproject.com/Articles/29637/Five-Tips-for-Floating-Point-Programmi
 std::basic_filebuf::open method (includes detailed description of the open mode flags)  
 http://en.cppreference.com/w/cpp/io/basic_filebuf/open
 
-
+Bjarne Stroustrup (2003) A name for the null pointer: nullptr  
+http://www.stroustrup.com/N1488-nullptr.pdf
 
 ## Design Patterns
 
