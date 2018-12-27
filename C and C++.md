@@ -87,6 +87,36 @@ http://en.cppreference.com/w/cpp/io/basic_filebuf/open
 Bjarne Stroustrup (2003) A name for the null pointer: nullptr  
 http://www.stroustrup.com/N1488-nullptr.pdf
 
+Ayman B. Shoukry (2012) Named Return Value Optimization in Visual C++ 2005  
+https://docs.microsoft.com/en-us/previous-versions/ms364057(v=vs.80)
+
+## C++11
+
+Eli Bendersky (2014) Variadic templates in C++  
+https://eli.thegreenplace.net/2014/variadic-templates-in-c/
+
+Bartosz Milewski (2009) What Does Haskell Have to Do with C++?  
+https://bartoszmilewski.com/2009/10/21/what-does-haskell-have-to-do-with-c/
+
+Eli Bendersky (2014) SFINAE and enable_if  
+https://eli.thegreenplace.net/2014/sfinae-and-enable_if/
+
+Eli Bendersky (2014) Perfect forwarding and universal references in C++  
+https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c/
+
+Eli Bendersky (2011) Understanding lvalues and rvalues in C and C++  
+https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c
+
+Thomas Becker (2013) C++ Rvalue References Explained  
+http://thbecker.net/articles/rvalue_references/section_01.html
+
+MSDN (2016) Welcome Back to C++ (Modern C++)  
+https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2017
+
+Empty Base Optimization  
+https://en.cppreference.com/w/cpp/language/ebo
+
+
 ## Design Patterns
 
 Ерик Гама, Ричард Хелм, Ралф Джонсън, Джон Влисидес (бандата на четиримата) (2005) **Шаблони за дизайн**. СофтПрес. ISBN:9546853526
