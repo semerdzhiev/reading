@@ -110,6 +110,12 @@ https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-
 Thomas Becker (2013) C++ Rvalue References Explained  
 http://thbecker.net/articles/rvalue_references/section_01.html
 
+Howard E. Hinnant, Bjarne Stroustrup, Bronek Kozicki (2006) A Brief Introduction to Rvalue References  
+http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2027.html
+
+Howard E. Hinnant, Peter Dimov, Dave Abrahams (2002) A Proposal to Add Move Semantics Support to the C++ Language  
+http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2002/n1377.htm
+
 MSDN (2016) Welcome Back to C++ (Modern C++)  
 https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2017
 
