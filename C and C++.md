@@ -30,13 +30,19 @@ http://www.stroustrup.com/programming.html
 Bjarne Stroustrup (2018) **A Tour of C++**, 2nd ed.  
 http://www.stroustrup.com/tour2.html
 
+Scott Meyers (2014) **Effective Modern C++**
+
+Scott Meyers (2005) **Effective C++**, 3rd ed.
+
+Scott Meyers (1996) **More Effective C++**
+
 David Vandevoorde, Nicolai Josuttis (2017) **C++ Templates - The Complete Guide**, 2nd ed.  
 http://www.tmplbook.com/
 
-Nicolai M. Josuttis (2012) "**The C++ Standard Library - A Tutorial and Reference**", 2nd ed.  
+Nicolai M. Josuttis (2012) **The C++ Standard Library - A Tutorial and Reference**, 2nd ed.  
 http://cppstdlib.com/
 
-Nicolai M. Josuttis (TBA) "**C++17 - The Complete Guide**"  
+Nicolai M. Josuttis (TBA) **C++17 - The Complete Guide**  
 http://www.josuttis.com/cppstd17/  
 https://leanpub.com/cpp17
 
@@ -106,6 +112,9 @@ https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-i
 
 Eli Bendersky (2011) Understanding lvalues and rvalues in C and C++  
 https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c
+
+cppreference. Value Cateogories  
+https://en.cppreference.com/w/cpp/language/value_category
 
 Thomas Becker (2013) C++ Rvalue References Explained  
 http://thbecker.net/articles/rvalue_references/section_01.html
