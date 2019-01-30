@@ -51,12 +51,17 @@ http://gameprogrammingpatterns.com/data-locality.html
 Bloch, Joshua (2006) **Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken**  
 https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
 
- Project Nayuki. **Next lexicographical permutation algorithm**  
+Project Nayuki. **Next lexicographical permutation algorithm**  
 https://www.nayuki.io/page/next-lexicographical-permutation-algorithm
 
 Ruslan writes code. **Why does Heap's algorithm work?**  
 http://ruslanledesma.com/2016/06/17/why-does-heap-work.html
 
+Xinok (2014) **In-Place Merge Sort Demystified**  
+https://xinok.wordpress.com/2014/08/17/in-place-merge-sort-demystified-2/
+
+Wikipedia. **Introsort**  
+https://en.wikipedia.org/wiki/Introsort
 
 
 ## Tools, Cheat Sheets, Visualizations, etc.

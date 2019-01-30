@@ -15,7 +15,11 @@ http://www.stroustrup.com/bs_faq.html
 The Definitive C++ Book Guide and List  
 https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282
 
+JTC1/SC22/WG21 - The C++ Standards Committee - ISOCPP  
+http://open-std.org/JTC1/SC22/WG21/
 
+cppreference.com: C++ reference.  
+https://en.cppreference.com/w/
 
 ## Books (in English)
 
@@ -153,9 +157,6 @@ http://www.cplusplus.com/doc/tutorial/
 
 C++ Reference.  
 http://www.cplusplus.com/reference/
-
-cppreference.com: C++ reference.  
-http://en.cppreference.com/w/cpp
 
 Learn C++.  
 http://www.learncpp.com/
