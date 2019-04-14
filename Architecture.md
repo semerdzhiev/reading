@@ -1,5 +1,16 @@
 # Architecture
 
+## Tools
+
+PlantUML http://plantuml.com/
+
+Graphviz https://www.graphviz.org/
+
+Visual Paradigm Online https://online.visual-paradigm.com/
+
+
+## Standards
+
 **TOGAF® Standard, Version 9.2** / The Open Group  
 http://pubs.opengroup.org/architecture/togaf9-doc/arch/
 
@@ -11,6 +22,9 @@ https://www.omg.org/spec/UML/
 
 **The DoDAF Architecture Framework Version 2.02** / United States Department of Defense    
 https://dodcio.defense.gov/Library/DoD-Architecture-Framework/
+
+
+## Books
 
 Gall, John (2002). **Systemantics. The Systems Bible**, 3rd ed.
 
