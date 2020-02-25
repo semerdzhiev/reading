@@ -23,3 +23,9 @@ http://maryrosecook.com/blog/post/git-from-the-inside-out
 
 Mary Rose Cook. **Git in six hundred words.**  
 http://maryrosecook.com/blog/post/git-in-six-hundred-words
+
+Atlassian. **Gitflow workflow.**  
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+James Shore. **Continuous Integration on a Dollar a Day.**  
+https://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html

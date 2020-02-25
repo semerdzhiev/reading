@@ -63,13 +63,13 @@ https://xinok.wordpress.com/2014/08/17/in-place-merge-sort-demystified-2/
 Wikipedia. **Introsort**  
 https://en.wikipedia.org/wiki/Introsort
 
-Amit Patel. **Amit’s A* Pages**  
+Amit Patel. **Amit’s A&ast; Pages**  
 http://theory.stanford.edu/~amitp/GameProgramming/
 
-Amit Patel (2016) **Introduction to the A* Algorithm**  
+Amit Patel (2016) **Introduction to the A&ast; Algorithm**  
 https://www.redblobgames.com/pathfinding/a-star/introduction.html
 
-Anti Ajanki, Data structures for fast autocomplete  
+Anti Ajanki. (2016) **Data structures for fast autocomplete.**  
 https://www.futurice.com/blog/data-structures-for-fast-autocomplete/
 
 Algorithm for autocomplete?  
