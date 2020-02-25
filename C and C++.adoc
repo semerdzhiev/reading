@@ -1,0 +1,147 @@
+= C and {cpp}
+:toc:
+
+
+== Standards, Guidelines, References
+
+ISO {cpp}. +
+https://isocpp.org/
+
+ISO {cpp}: Get Started! +
+https://isocpp.org/get-started
+
+{cpp} Core Guidelines +
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
+
+Bjarne Stroustrup's FAQ +
+http://www.stroustrup.com/bs_faq.html
+
+The Definitive {cpp} Book Guide and List +
+https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282
+
+JTC1/SC22/WG21 - The {cpp} Standards Committee - ISOCPP +
+http://open-std.org/JTC1/SC22/WG21/
+
+cppreference.com: {cpp} reference. +
+https://en.cppreference.com/w/
+
+Learn {cpp}. +
+http://www.learncpp.com/
+
+
+
+== Books (in English)
+
+Brian Kernighan, Dennis Ritchie (1988) *The C Programming Language*, 2nd ed. Englewood Cliffs, NJ: Prentice Hall
+
+Bjarne Stroustrup (2013) *The {cpp} Programming Language*, 4th ed. +
+http://www.stroustrup.com/4th.html
+
+Bjarne Stroustrup (2014) *Programming: Principles and Practice Using {cpp}*, 2nd ed.
+http://www.stroustrup.com/programming.html
+
+Bjarne Stroustrup (2018) *A Tour of {cpp}*, 2nd ed. +
+http://www.stroustrup.com/tour2.html
+
+Scott Meyers (2014) *Effective Modern {cpp}*
+
+Scott Meyers (2005) *Effective {cpp}*, 3rd ed.
+
+Scott Meyers (1996) *More Effective {cpp}*
+
+David Vandevoorde, Nicolai Josuttis (2017) *{cpp} Templates - The Complete Guide*, 2nd ed. +
+http://www.tmplbook.com/
+
+Nicolai M. Josuttis (2012) *The {cpp} Standard Library - A Tutorial and Reference*, 2nd ed. +
+http://cppstdlib.com/
+
+Nicolai M. Josuttis (2019) *{cpp}17 - The Complete Guide* +
+http://www.josuttis.com/cppstd17/ +
+https://leanpub.com/cpp17
+
+Ben Klemens (2012) *21st Century C: C Tips from the New School*. O'Reilly Media
+
+Richard Reese (2013) *Understanding and Using C Pointers - Core techniques for memory management*. O'Reilly Media
+
+Michael Dawson (2011) *Beginning {cpp} through game programming*, 3rd ed. Course Technology. ISBN: 9781435457423
+
+Stanley Lippman (2012) *{cpp} Primer*, 5th ed.
+
+Herb Sutter, Andrei Alexandrescu (2001) *{cpp} Coding Standards: 101 Rules, Guidelines, and Best Practices*
+http://erdani.com/index.php/books/ccs/
+
+Andrei Alexandrescu (2001) *Modern {cpp} Design* +
+http://erdani.com/index.php/books/modern-c-design/
+
+
+
+== Books (in Bulgarian)
+
+Браян Керниган, Денис Ричи (2004) *Програмният език C*. ЗеСТ Прес
+
+Бярне Строустроп (2001) *Програмният език С++*. Специално издание. Том 1 и 2. "Инфодар"
+
+Скот Майерс (2003) *Ефективен {cpp}*, второ издание. ЗестПрес, София
+
+Скот Майерс (2004) *По-ефективен {cpp}*. ЗестПрес, София
+
+Шилдт, Х. (2001) *Практически самоучител С*. Софт Прес, ISBN: 954685168X
+
+Шилдт, Х. (2001) *Практически самоучител С++*. Софт Прес,ISBN: 9546851698
+
+Павел Азълов (2008) *Обектно-Ориентирано Програмиране - структури от данни и STL*. Ciela, София 2008. ISBN: 9789542801849
+
+Магдалина Тодорова, Петър Армянов, Дафина Петкова, Калин Николов (2008) *Сборник от задачи по програмиране на С++: част първа Увод в програмирането*. София: Технологика.
+
+
+== Other
+
+Five Tips for Floating Point Programming +
+http://www.codeproject.com/Articles/29637/Five-Tips-for-Floating-Point-Programming
+
+std::basic_filebuf::open method (includes detailed description of the open mode flags) +
+http://en.cppreference.com/w/cpp/io/basic_filebuf/open
+
+Ayman B. Shoukry (2012) Named Return Value Optimization in Visual {cpp} 2005 +
+https://docs.microsoft.com/en-us/previous-versions/ms364057(v=vs.80)
+
+
+== Modern {cpp}
+
+Eli Bendersky (2014) Variadic templates in {cpp} +
+https://eli.thegreenplace.net/2014/variadic-templates-in-c/
+
+Bartosz Milewski (2009) What Does Haskell Have to Do with {cpp}? +
+https://bartoszmilewski.com/2009/10/21/what-does-haskell-have-to-do-with-c/
+
+Eli Bendersky (2014) SFINAE and enable_if +
+https://eli.thegreenplace.net/2014/sfinae-and-enable_if/
+
+Eli Bendersky (2014) Perfect forwarding and universal references in {cpp} +
+https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c/
+
+Eli Bendersky (2011) Understanding lvalues and rvalues in C and {cpp} +
+https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c
+
+cppreference. Value Cateogories +
+https://en.cppreference.com/w/cpp/language/value_category
+
+Thomas Becker (2013) {cpp} Rvalue References Explained +
+http://thbecker.net/articles/rvalue_references/section_01.html
+
+Howard E. Hinnant, Bjarne Stroustrup, Bronek Kozicki (2006) A Brief Introduction to Rvalue References +
+http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2027.html
+
+Howard E. Hinnant, Peter Dimov, Dave Abrahams (2002) A Proposal to Add Move Semantics Support to the {cpp} Language +
+http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2002/n1377.htm
+
+MSDN (2016) Welcome Back to {cpp} (Modern {cpp}) +
+https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2017
+
+Empty Base Optimization +
+https://en.cppreference.com/w/cpp/language/ebo
+
+Bjarne Stroustrup (2003) A name for the null pointer: nullptr +
+http://www.stroustrup.com/N1488-nullptr.pdf
+
+

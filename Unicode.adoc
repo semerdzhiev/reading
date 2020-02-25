@@ -1,0 +1,13 @@
+﻿= Unicode
+
+*Let's Stop Ascribing Meaning to Code Points* +
+Manish Goregaokar (2017) +
+https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/
+
+*Unicode programming, with examples* +
+begriffs (2019) +
+https://begriffs.com/posts/2019-05-23-unicode-icu.html
+
+*Unicode® Standard Annex #15: Unicode Normalization forms* +
+Unicode Consortium +
+https://unicode.org/reports/tr15/

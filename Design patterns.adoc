@@ -1,0 +1,8 @@
+= Design Patterns
+
+Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides (aka Gang of Four, GoF) (1994) *Design Patterns: Elements of Reusable Object-Oriented Software*. ISBN 978-0201633610.
+
+Ерик Гама, Ричард Хелм, Ралф Джонсън, Джон Влисидес (бандата на четиримата) (2005) *Шаблони за дизайн*. СофтПрес. ISBN:9546853526
+
+Design Patterns | Source Making +
+https://sourcemaking.com/design_patterns

@@ -1,31 +1,36 @@
-# Git
+= Git
 
-## Clients
+== Clients
 
-Git (Official).  
+Git (Official) +
 https://git-scm.com/
 
-GitHub Desktop.  
+GitHub Desktop +
 https://desktop.github.com/
 
-Atlassian SourceTree.  
+Atlassian SourceTree +
 https://www.atlassian.com/software/sourcetree/overview
 
 
 
-## Reading
+== Reading
 
-Scott Chacon; Ben Straub (2014) **Pro Git, 2nd Edition.**   
+*Pro Git*, 2nd Edition +
+Scott Chacon, Ben Straub (2014) +
 http://git-scm.com/book/en/v2
 
-Mary Rose Cook. **Git from the inside out.**  
+*Git from the inside out* +
+Mary Rose Cook +
 http://maryrosecook.com/blog/post/git-from-the-inside-out
 
-Mary Rose Cook. **Git in six hundred words.**  
+*Git in six hundred words* +
+Mary Rose Cook +
 http://maryrosecook.com/blog/post/git-in-six-hundred-words
 
-Atlassian. **Gitflow workflow.**  
+*Gitflow workflow* +
+Atlassian +
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
-James Shore. **Continuous Integration on a Dollar a Day.**  
+*Continuous Integration on a Dollar a Day* +
+James Shore (2006) +
 https://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html
