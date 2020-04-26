@@ -9,7 +9,8 @@ Sedgewick, R. (1998) *Algorithms in C++, Parts 1-4: Fundamentals, Data Structure
 
 Sedgewick, R. (2001) *Algorithms in C++ Part 5: Graph Algorithms*, 3rd ed. Addison-Wesley.
 
-Sedgewick, R.; Wayne, K (2011) *Algorithms*, 4th edition. Addison-Wesley.
+Sedgewick, R.; Wayne, K (2011) *Algorithms*, 4th edition. Addison-Wesley. +
+https://algs4.cs.princeton.edu/home/
 
 Skiena, Steven (2008) *The Algorithm Design Manual*, 2nd ed.
 
