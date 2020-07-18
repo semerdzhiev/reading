@@ -1,0 +1,13 @@
+= Python
+
+The Python Tutorial | python.org +
+https://docs.python.org/3/tutorial/
+
+Dive Into Python 3 +
+https://diveintopython3.problemsolving.io/
+
+Object-Oriented Programming (OOP) in Python 3 | Real Python +
+https://realpython.com/python3-object-oriented-programming/
+
+Solve Python | HackerRank +
+https://www.hackerrank.com/domains/python
