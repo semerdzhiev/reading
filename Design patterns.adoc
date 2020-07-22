@@ -4,5 +4,7 @@ Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides (aka Gang of Four, G
 
 Ерик Гама, Ричард Хелм, Ралф Джонсън, Джон Влисидес (бандата на четиримата) (2005) *Шаблони за дизайн*. СофтПрес. ISBN:9546853526
 
+Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra (2004) *Head First: Design Patterns*
+
 Design Patterns | Source Making +
 https://sourcemaking.com/design_patterns

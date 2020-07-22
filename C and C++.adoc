@@ -43,6 +43,8 @@ http://www.stroustrup.com/programming.html
 Bjarne Stroustrup (2018) *A Tour of {cpp}*, 2nd ed. +
 http://www.stroustrup.com/tour2.html
 
+Brian Overland (2015) *C++ Without Fear: A Beginner's Guide That Makes You Feel Smart*, 3rd Edition
+
 Scott Meyers (2014) *Effective Modern {cpp}*
 
 Scott Meyers (2005) *Effective {cpp}*, 3rd ed.
@@ -56,8 +58,13 @@ Nicolai M. Josuttis (2012) *The {cpp} Standard Library - A Tutorial and Referenc
 http://cppstdlib.com/
 
 Nicolai M. Josuttis (2019) *{cpp}17 - The Complete Guide* +
-http://www.josuttis.com/cppstd17/ +
-https://leanpub.com/cpp17
+http://www.josuttis.com/cppstd17/
+
+Nicolai M. Josuttis (2012) *The {cpp} Standard Library - A Tutorial and Reference*, 2nd ed. +
+http://cppstdlib.com/
+
+Nicolai M. Josuttis (TBA) *C++ Move Semantics - The Complete Guide*. +
+http://www.cppmove.com/
 
 Ben Klemens (2012) *21st Century C: C Tips from the New School*. O'Reilly Media
 

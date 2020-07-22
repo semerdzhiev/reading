@@ -1,0 +1,34 @@
+= Unit Testing
+
+== C++ Frameworks and Support
+
+Catch2 +
+https://github.com/catchorg/Catch2
+
+Microsoft UT Library +
+https://docs.microsoft.com/en-us/visualstudio/test/writing-unit-tests-for-c-cpp?view=vs-2019
+
+Googletest +
+https://github.com/google/googletest
+
+Bost Test +
+https://www.boost.org/doc/libs/1_45_0/libs/test/doc/html/index.html
+
+cppunit +
+https://freedesktop.org/wiki/Software/cppunit/
+
+Visual Studio Code Adapter for Catch2 and Googletest
+https://github.com/matepek/vscode-catch2-test-adapter
+
+
+== Източници
+
+Marc Clifton (2013) *Unit Testing Succinctly*. https://www.syncfusion.com/ebooks/unittesting
+
+Kent Beck (2002) *Test-Driven Development By Example.*
+
+Unit Testing Guidelines | Petroware +
+https://petroware.no/unittesting.html
+
+The evolution of Unit Testing Syntax and Semantics +
+https://osherove.com/blog/2008/1/17/the-evolution-of-unit-testing-syntax-and-semantics.html

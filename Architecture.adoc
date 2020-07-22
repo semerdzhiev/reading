@@ -53,3 +53,5 @@ Karl Wiegers; Joy Beatty (2013) *Software Requirements*, 3rd ed. ISBN 9780735679
 Steve McConnell (2004) *Code Complete: A Practical Handbook of Software Construction*, 2nd ed. ISBN 978-0735619678.
 
 Martin Fowler (2018) *Refactoring: Improving the Design of Existing Code*, 2nd ed. ISBN 978-0-13-475759-9.
+
+Michael Feathers (2004) *Working Effectively with Legacy Code*.
