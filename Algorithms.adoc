@@ -47,40 +47,31 @@ http://www.cs.umd.edu/~meesh/351/mount/251lects.ps
 
 == Articles, Blog Posts, etc.
 
-*Data Locality* +
-Bob Nystrom +
+*Data Locality* | Bob Nystrom +
 http://gameprogrammingpatterns.com/data-locality.html
 
-*Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken* +
-Joshua Bloch (2006) +
+*Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken* | Joshua Bloch (2006) +
 https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
 
-*Next lexicographical permutation algorithm* +
-Project Nayuki +
+*Next lexicographical permutation algorithm* | Project Nayuki +
 https://www.nayuki.io/page/next-lexicographical-permutation-algorithm
 
-*Why does Heap's algorithm work?* +
-Ruslan writes code +
+*Why does Heap's algorithm work?* | Ruslan writes code +
 http://ruslanledesma.com/2016/06/17/why-does-heap-work.html
 
-*In-Place Merge Sort Demystified* +
-Xinok (2014) +
+*In-Place Merge Sort Demystified* | Xinok (2014) +
 https://xinok.wordpress.com/2014/08/17/in-place-merge-sort-demystified-2/
 
-*Introsort* +
-Wikipedia +
+*Introsort* | Wikipedia +
 https://en.wikipedia.org/wiki/Introsort
 
-*Amit’s A&ast; Pages* +
-Amit Patel +
+*Amit’s A&ast; Pages* | Amit Patel +
 http://theory.stanford.edu/~amitp/GameProgramming/
 
-*Introduction to the A&ast; Algorithm* +
-Amit Patel (2016) +
+*Introduction to the A&ast; Algorithm* | Amit Patel (2016) +
 https://www.redblobgames.com/pathfinding/a-star/introduction.html
 
-*Data structures for fast autocomplete.* +
-Anti Ajanki (2016) +
+*Data structures for fast autocomplete.* | Anti Ajanki (2016) +
 https://www.futurice.com/blog/data-structures-for-fast-autocomplete/
 
 *Algorithm for autocomplete?* +

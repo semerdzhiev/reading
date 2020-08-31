@@ -1,0 +1,29 @@
+= JavaScript
+
+Douglas Crockford (2019) How JavaScript Works
+
+David Flanagan (2020) JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language, 7th Edition
+
+Douglas Crockford's JavaScript. http://www.crockford.com/javascript/
+
+
+== Node.js / Angular
+Angular.js reading list: https://stackoverflow.com/a/17363901
+
+Node.js reading list: https://stackoverflow.com/a/9629682
+
+
+== OAuth
+Charles Bihis (2015) Mastering OAuth 2.0
+
+Matthias Biehl (2014) OAuth 2.0: Getting Started in API Security
+
+
+== API Design / REST
+InfoQ Explores: REST https://www.infoq.com/minibooks/emag-03-2010-rest/
+
+Roy Thomas Fielding (2000) Architectural Styles and the Design of Network-based Software Architectures. Chapter 5: Representational State Transfer (REST) https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+
+Subbu Allamaraju (2010) Restful Web Services Cookbook: Solutions For Improving Scalability And Simplicity
+
+Microsoft API design guidance - Best practices for cloud applications. https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design

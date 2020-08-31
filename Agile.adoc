@@ -1,0 +1,22 @@
+= Agile
+
+Robert C. Martin  (2020) Clean Agile: Back to Basics
+
+Scrum in under 5 minutes +
+https://www.youtube.com/watch?v=2Vt7Ik8Ublw
+
+What Is Scrum | scrum.org +
+https://www.scrum.org/resources/what-is-scrum
+
+A Typical Sprint, Play-By-Play | scrum.org +
+https://www.scrum.org/resources/blog/typical-sprint-play-play
+
+The official Scrum guide | scrumguides.org +
+https://www.scrumguides.org/scrum-guide.html
+
+Agile Project Management | Atlassian +
+https://www.atlassian.com/agile/project-management/
+
+* https://www.atlassian.com/agile/project-management/epics-stories-themes[Epics, Stories, Themes, and Initiatives]
+* https://www.atlassian.com/agile/project-management/user-stories[User Stories | Examples and Template]
+* https://www.atlassian.com/agile/project-management/estimation[What are story points and how do you estimate them?]
