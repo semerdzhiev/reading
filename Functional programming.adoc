@@ -1,12 +1,16 @@
 = Functional Programming
 
-Harold Abelson and Gerald Jay Sussmanwith Julie Sussman. *Structure and Interpretation of Computer Programs*, 2nd ed. https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
+Harold Abelson and Gerald Jay Sussmanwith Julie Sussman (1996) *Structure and Interpretation of Computer Programs*, 2nd ed. https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
 
-Miran Lipovača. *Learn You a Haskell for Great Good!* http://learnyouahaskell.com/
+Miran Lipovača (2012) *Learn You a Haskell for Great Good!* http://learnyouahaskell.com/
 
-Bryan O'Sullivan, Don Stewart, and John Goerzen. *Real World Haskell* http://book.realworldhaskell.org/
+Bryan O'Sullivan, Don Stewart, and John Goerzen (2008) *Real World Haskell* http://book.realworldhaskell.org/
 
-Tomas Petricek and Jon Skeet. *Real-World Functional Programming with examples in F# and C#*.
+Tomas Petricek and Jon Skeet (2010) *Real-World Functional Programming with examples in F# and C#*.
+
+Магдалина Тодорова (2010) *Езици за функционално и логическо програмиране, първа част – функционално програмиране*, преработено и допълнено издание. ISBN 978-954-28-0828-2
+
+Мария Нишева, Павел Павлов (2004) *Функционално програмиране на езика Scheme*
 
 == Articles
 
