@@ -1,0 +1,17 @@
+= Functional Programming
+
+Harold Abelson and Gerald Jay Sussmanwith Julie Sussman. *Structure and Interpretation of Computer Programs*, 2nd ed. https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
+
+Miran Lipovača. *Learn You a Haskell for Great Good!* http://learnyouahaskell.com/
+
+Bryan O'Sullivan, Don Stewart, and John Goerzen. *Real World Haskell* http://book.realworldhaskell.org/
+
+Tomas Petricek and Jon Skeet. *Real-World Functional Programming with examples in F# and C#*.
+
+== Articles
+
+Monads for the Curious Programmer, Part 1 | Bartosz Milewski +
+https://bartoszmilewski.com/2011/01/09/monads-for-the-curious-programmer-part-1/
+
+Monads for the Curious Programmer, Part 2 | Bartosz Milewski +
+https://bartoszmilewski.com/2011/03/14/monads-for-the-curious-programmer-part-2/
