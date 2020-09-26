@@ -27,6 +27,8 @@ Marc Clifton (2013) *Unit Testing Succinctly*. https://www.syncfusion.com/ebooks
 
 Kent Beck (2002) *Test-Driven Development By Example.*
 
+Tomek Kaczanowski (2013) Practical Unit Testing with JUnit and Mockito
+
 Unit Testing Guidelines | Petroware +
 https://petroware.no/unittesting.html
 
