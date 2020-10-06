@@ -2,6 +2,8 @@
 
 Harold Abelson and Gerald Jay Sussmanwith Julie Sussman (1996) *Structure and Interpretation of Computer Programs*, 2nd ed. https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
 
+R. Kent Dybvig. *The Scheme Programming Language*, 3rd ed. https://www.scheme.com/tspl3/
+
 Miran Lipovača (2012) *Learn You a Haskell for Great Good!* http://learnyouahaskell.com/
 
 Bryan O'Sullivan, Don Stewart, and John Goerzen (2008) *Real World Haskell* http://book.realworldhaskell.org/
