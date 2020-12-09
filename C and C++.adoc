@@ -80,6 +80,9 @@ http://erdani.com/index.php/books/ccs/
 Andrei Alexandrescu (2001) *Modern {cpp} Design* +
 http://erdani.com/index.php/books/modern-c-design/
 
+Radovan Bast, Roberto Di Remigio (2018) *CMake Cookbook: Building, testing, and packaging modular software with modern CMake* +
+GitHub repo for the book: https://github.com/PacktPublishing/CMake-Cookbook
+
 
 
 == Books (in Bulgarian)
