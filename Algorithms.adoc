@@ -103,7 +103,7 @@ https://arena.maycamp.com/
 
 https://projecteuler.net/
 
-http://judge.openfmi.net:9080/spoj0/
+http://judge.openfmi.net
 
 http://train.usaco.org/usacogate
 
