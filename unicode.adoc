@@ -1,4 +1,6 @@
 ﻿= Unicode
+include::.attributes[]
+
 
 *Let's Stop Ascribing Meaning to Code Points* +
 Manish Goregaokar (2017) +

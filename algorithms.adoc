@@ -1,5 +1,6 @@
 = Data Structures and Algorithms
-:toc:
+include::.attributes[]
+
 
 == Books (in English)
 
@@ -44,41 +45,61 @@ http://www.cs.umd.edu/~meesh/351/mount/251lects.ps
 Амерал, Лендерт (2001) *Алгоритми и структури от данни в С++*. ISBN 954-8495-25-2
 
 
+== Combinatorial
 
-== Articles, Blog Posts, etc.
+https://www.nayuki.io/page/next-lexicographical-permutation-algorithm[Next lexicographical permutation algorithm] | Project Nayuki
 
-*Data Locality* | Bob Nystrom +
-http://gameprogrammingpatterns.com/data-locality.html
+http://ruslanledesma.com/2016/06/17/why-does-heap-work.html[Why does Heap's algorithm work?] | Ruslan writes code
 
-*Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken* | Joshua Bloch (2006) +
-https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
 
-*Next lexicographical permutation algorithm* | Project Nayuki +
-https://www.nayuki.io/page/next-lexicographical-permutation-algorithm
+== Linear data structures
 
-*Why does Heap's algorithm work?* | Ruslan writes code +
-http://ruslanledesma.com/2016/06/17/why-does-heap-work.html
+https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html|[Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken] | Joshua Bloch (2006)
 
-*In-Place Merge Sort Demystified* | Xinok (2014) +
-https://xinok.wordpress.com/2014/08/17/in-place-merge-sort-demystified-2/
+https://xinok.wordpress.com/2014/08/17/in-place-merge-sort-demystified-2/[In-Place Merge Sort Demystified] | Xinok (2014)
 
-*Introsort* | Wikipedia +
-https://en.wikipedia.org/wiki/Introsort
+https://en.wikipedia.org/wiki/Introsort[Introsort] | Wikipedia +
 
-*Amit’s A&ast; Pages* | Amit Patel +
-http://theory.stanford.edu/~amitp/GameProgramming/
 
-*Introduction to the A&ast; Algorithm* | Amit Patel (2016) +
-https://www.redblobgames.com/pathfinding/a-star/introduction.html
+== Red-Black Tree
 
-*Data structures for fast autocomplete.* | Anti Ajanki (2016) +
-https://www.futurice.com/blog/data-structures-for-fast-autocomplete/
+https://en.wikipedia.org/wiki/Red%E2%80%93black_tree[Red-Black Tree] | Wikipedia
 
-*Algorithm for autocomplete?* +
-https://stackoverflow.com/questions/2901831/algorithm-for-autocomplete 
+Robert Sedgewick. *Algorithms in C++, Parts 1-4 Fundamentals, Data Structure, Sorting, Searching*. Chapter Thirteen -- Balanced Trees. Sections "`13.3. Top-Down 2-3-4 Trees`" and "`13.4. Red–Black Trees`".
 
-*What is the best autocomplete/suggest algorithm,datastructure [{cpp}/C]* +
-https://stackoverflow.com/questions/1783652/what-is-the-best-autocomplete-suggest-algorithm-datastructure-c-c
+https://www.baeldung.com/cs/red-black-trees[Introduction to Red-Black Trees] | Michael Krimgen (October 19, 2020)
+
+https://www.educative.io/page/5689413791121408/80001[2-3-4 Trees: A Visual Introduction] (also includes an interactive visualization) | Fahim ul Haq.
+
+https://azrael.digipen.edu/~mmead/www/Courses/CS280/Trees-Mapping2-3-4IntoRB.html[Mapping 2-3-4 Trees into Red-Black Trees] | Matthew Mead
+
+Arne Andersson (1993) *Balanced search trees made simple*. In Proc. Workshop on Algorithms and Data Structures, pages 60--71. Springer Verlag.
+
+http://opendatastructures.org/ods-cpp/[Open Data Structures (in {cpp})] | Pat Morin +
+* Chapter 9. http://opendatastructures.org/ods-cpp/9_Red_Black_Trees.html[Red-Black Trees]
+
+https://en.wikipedia.org/wiki/AA_tree[AA tree] | Wikipedia
+
+
+== Graphs
+
+http://theory.stanford.edu/~amitp/GameProgramming/[Amit`'s pass:[A*] Pages] | Amit Patel
+
+https://www.redblobgames.com/pathfinding/a-star/introduction.html[Introduction to the pass:[A*] Algorithm] | Amit Patel (2016)
+
+
+== Autocomplete
+
+https://www.futurice.com/blog/data-structures-for-fast-autocomplete/[Data structures for fast autocomplete] | Anti Ajanki (2016)
+
+https://stackoverflow.com/questions/2901831/algorithm-for-autocomplete[Algorithm for autocomplete?] | StackOverflow
+ 
+https://stackoverflow.com/questions/1783652/what-is-the-best-autocomplete-suggest-algorithm-datastructure-c-c[What is the best autocomplete/suggest algorithm,datastructure [{cpp}/C]] | StackOverflow
+
+
+== Articles on other topics
+
+http://gameprogrammingpatterns.com/data-locality.html[Data Locality] | Bob Nystrom
 
 
 == Cheat Sheets, Visualizations, etc.
@@ -98,8 +119,6 @@ http://www.sorting-algorithms.com/
 
 
 == Collections of Problems, Competitions, etc.
-
-https://www.codestepbystep.com/
 
 https://arena.maycamp.com/
 
@@ -134,5 +153,3 @@ http://codechef.com
 http://interviewbit.com
 
 http://hackerrank.com
-
-https://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/

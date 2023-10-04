@@ -1,19 +1,20 @@
 = Systems programming
-:toc:
+include::.attributes[]
+
 
 == Operating systems
 
-Andrew Tanenbaum,‎ Herbert Bos (2014) *Modern Operating Systems* (4th Edition). ISBN 978-0133591620
+Andrew Tanenbaum, Herbert Bos (2014) *Modern Operating Systems* (4th Edition). ISBN 978-0133591620
 
 Andrew Tanenbaum, Albert Woodhull (2006) *Operating Systems Design and Implementation*. ISBN 978-0131429383
 
 Jeffrey Richter, Christophe Nasarre (2007) *Windows via C/C++* (5th Edition). ISBN 978-0735624245
 
-Mark Russinovich,‎ David Solomon,‎ Alex Ionescu (2012) *Windows Internals, Part 1* (6th Edition). ISBN 978-0735648739
+Mark Russinovich, David Solomon, Alex Ionescu (2012) *Windows Internals, Part 1* (6th Edition). ISBN 978-0735648739
 
-Mark Russinovich,‎ David Solomon,‎ Alex Ionescu (2012) *Windows Internals, Part 2* (6th Edition). ISBN 978-0735665873
+Mark Russinovich, David Solomon, Alex Ionescu (2012) *Windows Internals, Part 2* (6th Edition). ISBN 978-0735665873
 
-Pavel Yosifovich,‎ Mark Russinovich,‎ David Solomon,‎ Alex Ionescu (2017) *Windows Internals, Part 1: System architecture, processes, threads, memory management, and more* (7th Edition). ISBN 978-0735684188
+Pavel Yosifovich, Mark Russinovich, David Solomon, Alex Ionescu (2017) *Windows Internals, Part 1: System architecture, processes, threads, memory management, and more* (7th Edition). ISBN 978-0735684188
 
 
 == Memory

@@ -1,0 +1,3 @@
+This repository contains lists of references to useful resources, organized by topic.
+
+The references are mostly to books and articles, but some also point to tools, cheat sheets, etc.

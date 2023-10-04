@@ -1,0 +1,69 @@
+= History
+include::.attributes[]
+
+
+== Wintel
+
+https://www.filfre.net/2012/05/the-ibm-pc-part-1/[The IBM PC, Part 1]
+
+https://www.filfre.net/2012/05/the-ibm-pc-part-2/[The IBM PC, Part 2]
+
+https://www.filfre.net/2012/05/the-ibm-pc-part-3/[The IBM PC, Part 3]
+
+https://www.filfre.net/2012/05/the-ibm-pc-part-4/[The IBM PC, Part 4]
+
+https://www.filfre.net/2018/06/doing-windows-part-1-ms-dos-and-its-discontents/[Doing Windows, Part 1: MS-DOS and Its Discontents]
+
+https://www.filfre.net/2018/06/doing-windows-part-2-from-interface-manager-to-windows/[Doing Windows, Part 2: From Interface Manager to Windows]
+
+https://www.filfre.net/2018/07/doing-windows-part-3-a-pair-of-strike-outs/[Doing Windows, Part 3: A Pair of Strike-Outs]
+
+https://www.filfre.net/2018/07/doing-windows-part-4-the-rapprochement/[Doing Windows, Part 4: The Rapprochement]
+
+https://www.filfre.net/2018/07/doing-windows-part-5-a-second-try/[Doing Windows, Part 5: A Second Try]
+
+https://www.filfre.net/2018/07/doing-windows-part-6-look-and-feel/[Doing Windows, Part 6: Look and Feel]
+
+https://www.filfre.net/2018/08/doing-windows-part-7-third-times-the-charm/[Doing Windows, Part 7: Third Time’s the Charm]
+
+https://www.filfre.net/2018/08/doing-windows-part-8-the-outsiders/[Doing Windows, Part 8: The Outsiders]
+
+https://www.filfre.net/2018/08/doing-windows-part-9-windows-comes-home/[Doing Windows, Part 9: Windows Comes Home]
+
+https://www.filfre.net/2014/10/send-in-the-clones/[Send in the Clones]
+
+https://www.filfre.net/2016/08/ibms-new-flavor/[IBM's New Flavor]
+
+https://www.filfre.net/2020/02/the-deal-of-the-century-or-the-alliance-of-losers/[The Deal of the Century (or, The Alliance of Losers)]
+
+
+== Apple
+
+https://www.filfre.net/2011/09/the-apple-ii/[The Apple II]
+
+https://www.filfre.net/2014/02/macintosh/[Macintosh]
+
+https://www.filfre.net/2014/02/macware/[Macware]
+
+
+== Other
+
+https://www.filfre.net/2016/09/a-slow-motion-revolution/[A Slow-Motion Revolution]
+
+https://www.filfre.net/2015/03/the-68000-wars-part-1-lorraine/[The 68000 Wars, Part 1: Lorraine]
+
+https://www.filfre.net/2015/04/the-68000-wars-part-2-jack-is-back/[The 68000 Wars, Part 2: Jack Is Back!]
+
+https://www.filfre.net/2015/04/the-68000-wars-part-3-we-made-amiga-they-fucked-it-up/[The 68000 Wars, Part 3: We Made Amiga, They Fucked It Up]
+
+https://www.filfre.net/2015/11/the-68000-wars-part-4-rock-lobster/[The 68000 Wars, Part 4: Rock Lobster]
+
+https://www.filfre.net/2017/10/the-68000-wars-part-5-the-age-of-multimedia/[The 68000 Wars, Part 5: The Age of Multimedia]
+
+https://www.filfre.net/2016/04/generation-nintendo/[Generation Nintendo]
+
+https://www.filfre.net/2020/06/the-shareware-scene-part-4-doom/[The Shareware Scene, Part 4: DOOM]
+
+https://www.filfre.net/2020/06/the-shareware-scene-part-5-narratives-of-doom/[The Shareware Scene, Part 5: Narratives of DOOM]
+
+https://www.filfre.net/2014/10/the-forth-dimension/[The Forth Dimension]

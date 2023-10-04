@@ -1,0 +1,268 @@
+= Git
+include::.attributes[]
+
+
+== Introduction
+
+* Git Intro and basic operations
+* Git Internals (what’s inside the `.git` directory)
+* Working diretory, staging area/index; commiting
+* Viewing objects (`git cat-file`)
+* The three trees of git
+* Removing a file (`git rm`); 
+* How branches work; branching; `git branch`; `git checkout -b` 
+* `git commit --amend`
+* `git checkout`
+* `git reset` (`--hard`, `--soft`, `--mixed`); checkout vs reset 
+* Detached `HEAD`; what happens with dangling commits; pruning;
+* `git reflog`; нотация тип `HEAD@{1}` и `HEAD~1`; 
+* `.gitignore`
+* `git clean` 
+* Deleting a branch (`git branch -d`); deletable/non-deletable branches;
+
+https://maryrosecook.com/blog/post/git-from-the-inside-out[Git from the inside out] | Mary Rose Cook 
+
+https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
+* Chapter 2: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository[Git Basics] +
+* 7.7: https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified[Git Tools - Reset Demystified]  +
+* Chapter 10: https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain[Git Internals]
+
+
+=== Hashing
+
+https://github.blog/2017-03-20-sha-1-collision-detection-on-github-com/[SHA-1 collision detection on GitHub.com]
+| Jeff King (2017)
+
+https://news.ycombinator.com/item?id=13719368[Linus' reply on Git and SHA-1 collision]
+| ycombinator
+
+https://stackoverflow.com/questions/7225313/how-does-git-compute-file-hashes[How does git compute file hashes?] | Stack Overflow
+
+https://alblue.bandlem.com/2011/08/git-tip-of-week-objects.html[Git Tip of the Week: Objects] _(Also has some notes on how Git hashes files)_
+
+=== Basic operations
+
+https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting[Resetting, Checking Out & Reverting]
+| Atlassian 
+
+https://www.atlassian.com/git/tutorials/undoing-changes/git-reset[Git Reset]
+| Atlassian 
+
+=== Viewing stuff
+
+https://git-scm.com/docs/git-ls-files[`cat-file`]
+
+https://git-scm.com/docs/git-ls-files[`ls-files`]
+
+https://git-scm.com/docs/git-ls-tree[`ls-tree`]
+
+https://stackoverflow.com/questions/23303549/what-are-commit-ish-and-tree-ish-in-git[What are commit-ish and tree-ish in Git?]
+
+git log
+
+git reflog
+
+=== Pruning
+
+https://www.atlassian.com/git/tutorials/git-prune[Git Prune]
+| Atlassian 
+
+https://stackoverflow.com/questions/2613903/does-deleting-a-branch-in-git-remove-it-from-the-history[Does deleting a branch in git remove it from the history?]
+| Stack Overflow 
+
+https://stackoverflow.com/questions/3765234/listing-and-deleting-git-commits-that-are-under-no-branch-dangling/4528593[Listing and deleting Git commits that are under no branch (dangling?)]
+| Stack Overflow 
+
+https://stackoverflow.com/questions/50135844/what-does-git-do-when-we-do-git-gc-git-prune[What does git do when we do : git gc - git prune]
+| Stack Overflow 
+
+=== Comparing stuff
+
+https://git-scm.com/docs/git-diff[`git diff`]
+
+https://www.git-tower.com/learn/git/faq/git-diff/[git diff — Inspecting and Comparing Changes in Git] | Git Tower
+
+=== Ignoring things and cleaning untracked stuff
+
+https://www.atlassian.com/git/tutorials/saving-changes/gitignore[gitignore] | Atlassian
+
+https://github.com/github/gitignore[Collection of .gitignore files] at GitHub
+
+https://git-scm.com/docs/git-clean[`git clean`]
+
+
+== Tools
+
+https://git-scm.com/downloads/guis[GUI Clients list at git-scm.com]
+
+=== GUI Clients
+
+https://tortoisegit.org/[TortoiseGit]
+
+https://gitextensions.github.io/[GitExtensions]
+
+https://desktop.github.com/[GitHub Desktop]
+
+https://www.sourcetreeapp.com/[Atlassian SourceTree]
+
+=== Diff and Merge
+
+https://winmerge.org/[WinMerge]
+
+http://kdiff3.sourceforge.net/[KDiff3]
+
+https://scootersoftware.com/[Beyond Compare]
+
+
+== Setup
+
+https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
+* Chapter 8.1 https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration[Customizing Git - Git Configuration]
+
+https://stackoverflow.com/questions/4050905/changing-gitconfig-location-on-windows[Changing .gitconfig location on Windows] | Stack Overflow
+
+=== Set text editor and diff tool
+
+https://git-scm.com/docs/git-difftool[git-difftool Documentation]
+
+https://help.github.com/en/github/using-git/associating-text-editors-with-git[Associating text editors with Git] | GitHub
+
+https://stackoverflow.com/questions/255202/how-do-i-view-git-diff-output-with-my-preferred-diff-tool-viewer/255212#255212[How do I view 'git diff' output with my preferred diff tool/ viewer?] | Stack Overflow
+
+https://blog.soltysiak.it/en/2017/01/set-visual-studio-code-as-default-git-editor-and-diff-tool/[Set Visual Studio Code as default git editor and diff tool]
+
+https://dzone.com/articles/how-to-configure-visual-studio-as-diff-and-merge-t[How to Configure Visual Studio as Diff and Merge Tool for Git]
+
+=== Set colors in the console
+
+https://shallowsky.com/blog/programming/gitcolors.html[Configuring git colors] | Shallow Thoughts
+
+https://www.schaeflein.net/git-command-line-color-settings/[Git Command Line color settings] | Paul Schaeflein
+
+
+https://stackoverflow.com/questions/12795790/how-to-colorize-git-status-output[How to colorize git-status output?] | Stack Overflow
+
+https://stackoverflow.com/questions/15458237/git-pretty-format-colors[Git pretty format colors] | Stack Overflow
+
+https://github.com/semerdzhiev/Color-scheme-for-Git[Sample configuration]
+
+
+
+== Best practices
+
+https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html[A Note About Git Commit Messages] | Tim Pope (2008) 
+
+https://www.conventionalcommits.org/[Conventional Commits] - A specification for adding human and machine readable meaning to commit messages
+
+https://semver.org/[Semantic Versioning]
+
+
+
+== Security
+
+* Накратко за криптографията за публичен и частен ключ.
+* SSH keys in GitLab/GitHub
+* 2FA
+
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/githubs-ssh-key-fingerprints[GitHub's SSH key fingerprints] | GitHub
+
+https://docs.gitlab.com/ee/ssh/[GitLab and SSH keys] | GitLab
+
+https://coderwall.com/p/7smjkq/multiple-ssh-keys-for-different-accounts-on-github-or-gitlab[Multiple SSH keys for different accounts on Github or Gitlab] | Coderwall
+
+https://www.zdnet.com/article/microsoft-urges-users-to-stop-using-phone-based-multi-factor-authentication/[Microsoft urges users to stop using phone-based multi-factor authentication] | ZDNet
+
+https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-why-pin-is-better-than-password[Why a PIN is better than a password] | Microsoft
+
+
+
+== Processes. Repository organization and maintenance.
+
+* Overview of Continuous Integration, Iterative development, Continuous Delivery.
+* GitFlow
+
+Robert Martin (2019) Clean Agile: Back to Basics +
+* Chapter 1: Introduction to agile
+
+https://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html[Continuous Integration on a Dollar a Day]
+| James Shore
+
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow[Gitflow Workflow]
+| Atlassian 
+
+https://paulhammant.com/2013/04/05/what-is-trunk-based-development/[What is Trunk-Based Development?]
+| Paul Hammant 
+
+https://paulhammant.com/blog/branch_by_abstraction.html[Introducing Branch By Abstraction]
+| Paul Hammant 
+
+https://paulhammant.com/2013/03/04/facebook-tbd/[Trunk-Based Development at Facebook]
+| Paul Hammant 
+
+https://paulhammant.com/2013/03/13/facebook-tbd-take-2/[Facebook's Trunk-Based Development (take 2)]
+| Paul Hammant 
+
+https://paulhammant.com/2013/05/06/googles-scaled-trunk-based-development/[Google's Scaled Trunk-Based Development]
+| Paul Hammant 
+
+https://paulhammant.com/2014/04/03/microsofts-trunk-based-development/[Microsoft's Trunk-Based Development]
+| Paul Hammant 
+
+
+
+== Changing History
+
+* Няколко основни сценария на работа, при които избираме какво да остане в историята; squashing (git rebase -i), amend (git commit --amend), interactive add (git add -i); 
+* Merge, Rebase, Interactive rebase 
+* git revert 
+* merging and rebasing; merge vs rebase for committing your work; git pull vs git pull --rebase; 
+* Interactive rebase 
+* Resolving conflicts when merging/rebasing;
+
+https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
+* Chapter 2: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository[Git Basics] +
+* Chapter 3: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell[Git Branching] _(включва информация за rebase)_ +
+* 7.2: https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging[Git Tools - Interactive Staging ] +
+* 7.6: https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History[Git Tools - Rewriting History] +
+* 7.8 https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging[Git Tools - Advanced Merging] +
+* A3.4 Appendix C: https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Branching-and-Merging[Git Commands - Branching and Merging]
+
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing[Merging vs. Rebasing]
+| Atlassian 
+
+https://hackernoon.com/beginners-guide-to-interactive-rebasing-346a3f9c3a6d[Beginner's Guide to Interactive Rebasing]
+| Stride @ Hackernoon (2018)
+
+https://blog.dnsimple.com/2019/01/two-years-of-squash-merge/[Two years of squash merge]
+| Simone Carletti (2019)
+
+https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting[Resetting, Checking Out & Reverting]
+| Atlassian 
+
+https://howchoo.com/g/njcyntcxmwq/git-merge-conflicts-rebase-ours-theirs[Git: Handling Merge Conflicts Using "Ours" and "Theirs"]
+
+https://devblogs.microsoft.com/oldnewthing/20180323-01/?p=98325[Stop cherry-picking, start merging: Index]
+| The Old New Thing 
+
+https://stackoverflow.com/questions/65225055/how-does-git-rebase-work-under-the-hood[How does `git rebase` work under the hood?] | Stack Overflow
+
+https://stackoverflow.com/questions/22992543/how-do-i-git-rebase-the-first-commit[How do I git rebase the first commit?] | Stack Overflow
+
+== Working with remotes
+
+* Working with remotes
+* Remote tracking branches
+* Force push, force with lease
+
+https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
+* 3.5: https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches[Git Branching - Remote Branches] +
+* 4.1: https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols[Git on the Server - The Protocols] +
+* Chapter 10: https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain[Git Internals]
+
+https://stackoverflow.com/questions/52823692/git-push-force-with-lease-vs-force[git push --force-with-lease vs. --force] | Stack Overflow
+
+https://stackoverflow.com/questions/57897153/is-a-local-git-repository-thread-safe[Is a local Git repository thread-safe?] | Stack Overflow
+
+https://stackoverflow.com/questions/33682757/git-why-shared-repositories-should-be-bare-repositories-is-this-obsolete-ad[Git - why "shared repositories should be bare repositories"? Is this obsolete advice?] | Stack Overflow
+
+https://stackoverflow.com/a/14290145[Git - Pushing code to two remotes] | Stack Overflow

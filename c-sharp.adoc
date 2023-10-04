@@ -1,0 +1,22 @@
+= C#
+include::.attributes[]
+
+
+== Books
+
+RB Whitaker (2021) *The C# Player’s Guide*, 4th ed. https://csharpplayersguide.com/
+
+Joseph Albahari (2021) *C# 9.0 in a Nutshell: The Definitive Reference*
+
+Andrew Stellman, Jennifer Greene (2020) *Head First C#: A Learner's Guide to Real-World Programming with C# and .NET Core* 4th Edition
+
+Mark J. Price (2020) *C# 9 and .NET 5 – Modern Cross-Platform Development*, 5th ed.
+
+https://docs.microsoft.com/en-us/dotnet/csharp/[C# Documentation] | Microsoft Docs
+
+https://docs.microsoft.com/en-us/dotnet/fundamentals/[.NET Documentation] | Microsoft Docs
+
+
+== Articles
+
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2000/november/garbage-collection-automatic-memory-management-in-the-microsoft-net-framework[Garbage Collection: Automatic Memory Management in the Microsoft .NET Framework] | Jeffrey Richter (2000)

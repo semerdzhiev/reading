@@ -1,0 +1,210 @@
+= C and {cpp} (WORKING DRAFT)
+include::.attributes[]
+
+
+== Books (in English)
+
+Brian Kernighan, Dennis Ritchie (1988) *The C Programming Language*, 2nd ed. Englewood Cliffs, NJ: Prentice Hall
+
+Bjarne Stroustrup (2013) *The {cpp} Programming Language*, 4th ed. +
+http://www.stroustrup.com/4th.html
+
+Bjarne Stroustrup (2014) *Programming: Principles and Practice Using {cpp}*, 2nd ed. +
+http://www.stroustrup.com/programming.html
+
+Bjarne Stroustrup (2018) *A Tour of {cpp}*, 2nd ed. +
+http://www.stroustrup.com/tour2.html
+
+Brian Overland (2015) *{cpp} Without Fear: A Beginner's Guide That Makes You Feel Smart*, 3rd Edition
+
+Scott Meyers (2014) *Effective Modern {cpp}*
+
+Scott Meyers (2005) *Effective {cpp}*, 3rd ed.
+
+Scott Meyers (1996) *More Effective {cpp}*
+
+David Vandevoorde, Nicolai Josuttis (2017) *{cpp} Templates - The Complete Guide*, 2nd ed. +
+http://www.tmplbook.com/
+
+Nicolai M. Josuttis (2012) *The {cpp} Standard Library - A Tutorial and Reference*, 2nd ed. +
+http://cppstdlib.com/
+
+Nicolai M. Josuttis (2019) *{cpp}17 - The Complete Guide* +
+http://www.josuttis.com/cppstd17/
+
+Nicolai M. Josuttis (TBA) *{cpp} Move Semantics - The Complete Guide*. +
+http://www.cppmove.com/
+
+Ben Klemens (2012) *21st Century C: C Tips from the New School*. O'Reilly Media
+
+Richard Reese (2013) *Understanding and Using C Pointers - Core techniques for memory management*. O'Reilly Media
+
+Michael Dawson (2011) *Beginning {cpp} through game programming*, 3rd ed. Course Technology. ISBN: 9781435457423
+
+Stanley Lippman (2012) *{cpp} Primer*, 5th ed.
+
+Herb Sutter, Andrei Alexandrescu (2001) *{cpp} Coding Standards: 101 Rules, Guidelines, and Best Practices*
+http://erdani.com/index.php/books/ccs/
+
+Andrei Alexandrescu (2001) *Modern {cpp} Design* +
+http://erdani.com/index.php/books/modern-c-design/
+
+
+== Books (in Bulgarian)
+
+Браян Керниган, Денис Ричи (2004) *Програмният език C*. ЗеСТ Прес
+
+Бярне Строустроп (2001) *Програмният език С++*. Специално издание. Том 1 и 2. "Инфодар"
+
+Скот Майерс (2003) *Ефективен {cpp}*, второ издание. ЗестПрес, София
+
+Скот Майерс (2004) *По-ефективен {cpp}*. ЗестПрес, София
+
+Шилдт, Х. (2001) *Практически самоучител С*. Софт Прес, ISBN: 954685168X
+
+Шилдт, Х. (2001) *Практически самоучител С++*. Софт Прес,ISBN: 9546851698
+
+Павел Азълов (2008) *Обектно-Ориентирано Програмиране - структури от данни и STL*. Ciela, София 2008. ISBN: 9789542801849
+
+Магдалина Тодорова, Петър Армянов, Дафина Петкова, Калин Николов (2008) *Сборник от задачи по програмиране на С++: част първа Увод в програмирането*.
+
+Магдалина Тодорова, Петър Армянов, Калин Георгиев (2008) *Сборник по програмиране на {cpp}: част втора Обектно-ориентирано програмиране*.
+
+
+== Standards, Guidelines, References, Static Analysis
+
+https://isocpp.org/[ISO {cpp}] |
+https://isocpp.org/get-started[Get Started!]
+
+
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md[CppCoreGuidelines] | Bjarne Stroustrup, Herb Sutter
+
+http://www.stroustrup.com/bs_faq.html[Bjarne Stroustrup's FAQ]
+
+https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282[The Definitive {cpp} Book Guide and List] | Stack Overflow
+
+http://open-std.org/JTC1/SC22/WG21/[JTC1/SC22/WG21] - The {cpp} Standards Committee - ISOCPP +
+
+
+https://en.cppreference.com/w/[cppreference.com]: {cpp} reference. +
+
+http://www.learncpp.com/[Learn {cpp}]
+
+https://rules.sonarsource.com/cpp[SonarCube ({cpp})]
+
+MISRA {cpp}
+
+https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682[SEI CERT {cpp} Coding Standard]
+
+
+== Preprocessor and Separate Compilation
+
+* Phases of translation.
+* Preprocessor overview. `#include`, `#define`, `#if/#else/#elif/#endif`.
+* When to use the preprocessor and when to stick to language constructs.
+* Where to put the include directives - when to put them in the header and when in the source file.
+
+https://en.cppreference.com/w/cpp/language/translation_phases[Phases of translation] | cppreference
+
+https://en.cppreference.com/w/cpp/preprocessor/replace[Predefined macros] | cppreference
+
+https://www.youtube.com/watch?v=iaEHhwdWVFA[Separate Compilation] | YouTube
+
+https://www.youtube.com/watch?v=OL6eRlubBvs[Difference between quotes and angle brackets in include] | YouTube
+
+https://www.youtube.com/watch?v=xDBBerBH1uo[Header File Extensions] | YouTube
+
+https://www.youtube.com/watch?v=9dJV-B0AbCs[Names of the standard header files] | YouTube
+
+https://www.youtube.com/watch?v=BVaIUPfBaqI[Header Guards] | YouTube
+
+
+== Invariants / Error handling
+
+https://en.wikipedia.org/wiki/Exception_safety[Exception Safety] | Wikipedia
+
+https://en.cppreference.com/w/cpp/error/assert[assert] | cppreference.com
+
+=== Exceptions
+
+.Scott Meyers (1996) *More Effective {cpp}*
+* Item 9: Use destructors to prevent resource leaks
+* Item 10: Prevent resource leaks in constructors
+* Item 11: Prevent exceptions from leaving destructors
+* Item 12: Understand how throwing an exception differs from passing a parameter or calling a virtual function
+* Item 13: Catch exceptions by reference
+* Item 14: Use exception specifications judiciously
+* Item 15: Understand the costs of exception handling
+
+
+== Unit Testing
+
+=== Frameworks and support
+
+Catch2 +
+https://github.com/catchorg/Catch2
+
+Microsoft UT Library +
+https://docs.microsoft.com/en-us/visualstudio/test/writing-unit-tests-for-c-cpp?view=vs-2019
+
+Googletest +
+https://github.com/google/googletest
+
+Bost Test +
+https://www.boost.org/doc/libs/1_45_0/libs/test/doc/html/index.html
+
+cppunit +
+https://freedesktop.org/wiki/Software/cppunit/
+
+Visual Studio Code Adapter for Catch2 and Googletest
+https://github.com/matepek/vscode-catch2-test-adapter
+
+
+== Smart pointers
+
+.Scott Meyers (2014) *Effective Modern {cpp}*
+* Chapter 4. Smart Pointers (Items 18 -- 22)
+
+https://www.cppstories.com/2016/04/custom-deleters-for-c-smart-pointers/[Custom Deleters for {cpp} Smart Pointers] | {cpp} Stories
+
+https://en.cppreference.com/w/cpp/memory/unique_ptr[`std::unique_ptr`] | cppreference.com
+
+https://en.cppreference.com/w/cpp/memory/shared_ptr[`std::shared_ptr`] | cppreference.com
+
+https://en.cppreference.com/w/cpp/memory/weak_ptr[`std::weak_ptr`] | cppreference.com
+
+https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3588.txt[make_unique] | Stephan Lavavej (2013) Proposal to the working group; Document number: N3588
+
+
+== Lambda
+
+.Scott Meyers (2014) *Effective Modern {cpp}*
+* Chapter 6. Lambda Expressions (Items 31 -- 34)
+
+.Lambda Expressions in {cpp} | Microsoft
+* https://learn.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?redirectedfrom=MSDN&view=msvc-170[Lambda Expressions in {cpp}] | Microsoft
+
+* https://learn.microsoft.com/en-us/cpp/cpp/lambda-expression-syntax?view=msvc-170[Lambda Expression syntax] | Microsoft
+
+* https://learn.microsoft.com/en-us/cpp/cpp/examples-of-lambda-expressions?view=msvc-170[Examples of Lambda Expressions] | Microsoft
+
+* https://learn.microsoft.com/en-us/cpp/cpp/lambda-expressions-constexpr?view=msvc-170[constexpr lambda expressions in {cpp}] | Microsoft
+	
+https://stackoverflow.com/questions/13722426/why-can-lambdas-be-better-optimized-by-the-compiler-than-plain-functions[Why can lambdas be better optimized by the compiler than plain functions?] | Stack Overflow
+	
+https://devblogs.microsoft.com/oldnewthing/20150220-00/?p=44623[Non-capturing {cpp} lambdas can be converted to a pointer to function, but what about the calling convention?] | Raymond Chen (2015) | The Old New Thing
+
+https://www.youtube.com/watch?v=XqK8Yuoq4ig&t=21m30s[CppCon 2014: Drew Paroski "How HHVM Uses Modern {cpp} for Fun and Profit (Literally)"] | section on lambdas | YouTube
+
+http://pedromelendez.com/blog/2015/07/16/recursive-lambdas-in-c14/[Recursive lambdas in {cpp}(14)] | Pedro Melendez (2015))
+
+
+== Logging
+
+=== Libraries
+
+* https://logging.apache.org/log4cxx/latest_stable/[Apache log4cxx]
+* https://www.boost.org/doc/libs/release/libs/log/[Boost::log]
+* https://github.com/gabime/spdlog[spdlog]
+* http://www.pantheios.org/[Pantheios]
+* https://github.com/KjellKod/g3log[G3log]

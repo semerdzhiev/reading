@@ -1,0 +1,23 @@
+= UML
+include::.attributes[]
+
+
+== Reading
+
+*Unified Modeling Language Specification* +
+Object Management Group +
+https://www.omg.org/spec/UML/
+
+Martin Fowler (2003) *UML Distilled: A Brief Guide to the Standard Object Modeling Language*, 3rd Edition. Addison-Wesley Professional. ISBN 978-0-321-19368-1.
+
+
+== Tools
+
+PlantUML +
+http://plantuml.com/
+
+Graphviz +
+https://www.graphviz.org/
+
+Visual Paradigm Online +
+https://online.visual-paradigm.com/

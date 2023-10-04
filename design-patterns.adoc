@@ -1,0 +1,37 @@
+= Design Patterns
+include::.attributes[]
+
+
+== Books and Pattern Collections
+
+Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides (aka Gang of Four, GoF) (1994) *Design Patterns: Elements of Reusable Object-Oriented Software*. ISBN 978-0201633610.
+
+Ерик Гама, Ричард Хелм, Ралф Джонсън, Джон Влисидес (бандата на четиримата) (2005) *Шаблони за дизайн*. СофтПрес. ISBN:9546853526
+
+Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra (2021) *Head First: Design Patterns*, 2nd ed.
+
+https://refactoring.guru/design-patterns[Design Patterns] | Refactoring Guru
+
+https://sourcemaking.com/design_patterns[Design Patterns] | Source Making
+
+https://www.journaldev.com/1827/java-design-patterns-example-tutorial[Java Design Patterns – Example Tutorial] | JournalDev
+
+https://martinfowler.com/eaaDev/[Development of Further Patterns of Enterprise Application Architecture] | Martin Fowler
+
+== Articles
+
+https://martinfowler.com/eaaDev/MediatedSynchronization.html[Observer Synchronization] | Martin Fowler
+
+https://www.martinfowler.com/eaaDev/uiArchs.html[GUI Architectures] | Martin Fowler
+
+https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/[A quick intro to Dependency Injection: what it is, and when to use it] | freecodecamp.org
+
+https://www.journaldev.com/2394/java-dependency-injection-design-pattern-example-tutorial[Java Dependency Injection - DI Design Pattern Example Tutorial] | JournalDev | _В този източник има много добър пример и много добро обяснение на отделните елементи на шаблона_
+
+== MVC/MVP
+
+https://mvc.givan.se/[MVC Family Tree]
+
+https://lostechies.com/derekgreer/2007/08/25/interactive-application-architecture/[Interactive Application Architecture Patterns] | LosTechies
+
+https://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference[What are MVP and MVC and what is the difference?] | StackOverflow | _Много добър, нагледен пример е даден в отговора на Ali Nem от Apr 6 '18 at 13:51_
