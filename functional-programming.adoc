@@ -1,8 +1,10 @@
 = Functional Programming
+include::.attributes[]
+
 
 Harold Abelson and Gerald Jay Sussmanwith Julie Sussman (1996) *Structure and Interpretation of Computer Programs*, 2nd ed. https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
 
-R. Kent Dybvig. *The Scheme Programming Language*, 3rd ed. https://www.scheme.com/tspl3/
+R. Kent Dybvig. *The Scheme Programming Language*, 3rd ed https://www.scheme.com/tspl3/
 
 Miran Lipovača (2012) *Learn You a Haskell for Great Good!* http://learnyouahaskell.com/
 
@@ -16,8 +18,8 @@ Tomas Petricek and Jon Skeet (2010) *Real-World Functional Programming with exam
 
 == Articles
 
-Monads for the Curious Programmer, Part 1 | Bartosz Milewski +
-https://bartoszmilewski.com/2011/01/09/monads-for-the-curious-programmer-part-1/
+https://bartoszmilewski.com/2011/01/09/monads-for-the-curious-programmer-part-1/[Monads for the Curious Programmer, Part 1] | Bartosz Milewski
 
-Monads for the Curious Programmer, Part 2 | Bartosz Milewski +
-https://bartoszmilewski.com/2011/03/14/monads-for-the-curious-programmer-part-2/
+
+https://bartoszmilewski.com/2011/03/14/monads-for-the-curious-programmer-part-2/[Monads for the Curious Programmer, Part 2] | Bartosz Milewski
+

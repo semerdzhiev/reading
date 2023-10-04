@@ -1,0 +1,98 @@
+= Software Engineering
+include::.attributes[]
+
+
+== Assorted Topics
+
+Robert C. Martin (2008) *Clean Code: A Handbook of Agile Software Craftsmanship*.
+
+Michael Feathers (2004) *Working Effectively with Legacy Code*.
+
+Martin Fowler (2018) *Refactoring: Improving the Design of Existing Code* (2nd Edition)
+
+Martin Fowler , Kent Beck , et al. (1999) *Refactoring: Improving the Design of Existing Code* (1st Edition)
+
+John Gall (2002). *Systemantics. The Systems Bible*, 3rd ed.
+
+Karl Wiegers; Joy Beatty (2013) *Software Requirements*, 3rd ed. ISBN 9780735679610
+
+Steve McConnell (2004) *Code Complete: A Practical Handbook of Software Construction*, 2nd ed. ISBN 978-0735619678.
+
+
+== Processes and methodologies
+
+Robert C. Martin (2019) *Clean Agile: Back to Basics*.
+
+Scrum in under 5 minutes +
+https://www.youtube.com/watch?v=2Vt7Ik8Ublw
+
+What Is Scrum | scrum.org +
+https://www.scrum.org/resources/what-is-scrum
+
+A Typical Sprint, Play-By-Play | scrum.org +
+https://www.scrum.org/resources/blog/typical-sprint-play-play
+
+The official Scrum guide | scrumguides.org +
+https://www.scrumguides.org/scrum-guide.html
+
+Agile Project Management | Atlassian +
+https://www.atlassian.com/agile/project-management/
+
+* https://www.atlassian.com/agile/project-management/epics-stories-themes[Epics, Stories, Themes, and Initiatives]
+* https://www.atlassian.com/agile/project-management/user-stories[User Stories | Examples and Template]
+* https://www.atlassian.com/agile/project-management/estimation[What are story points and how do you estimate them?]
+
+
+== Invariants / Error handling
+
+* Invariants. Object state. Class invariant and process invariant.
+* How assert works. When to use assert.
+
+https://en.wikipedia.org/wiki/Exception_safety[Exception Safety Guarantees] | Wikipedia
+
+
+== Testing
+
+Kent Beck (2002) *Test-Driven Development By Example*.
+
+Maurício Aniche (2022) *Effective Software Testing*. ISBN 9781633439931
+
+Marc Clifton (2013) *Unit Testing Succinctly*. https://www.syncfusion.com/ebooks/unittesting
+
+Kent Beck (2002) *Test-Driven Development By Example.*
+
+https://martinfowler.com/articles/mocksArentStubs.html[Mocks Aren't Stubs] | Martin Fowler
+
+Unit Testing Guidelines | Petroware +
+https://petroware.no/unittesting.html
+
+The evolution of Unit Testing Syntax and Semantics +
+https://osherove.com/blog/2008/1/17/the-evolution-of-unit-testing-syntax-and-semantics.html
+
+
+== Code documentation
+
+https://www.doxygen.nl/manual/docblocks.html[Doxygen Manual]
+
+https://devblogs.microsoft.com/cppblog/doxygen-and-xml-doc-comment-support/[Doxygen and XML Doc Comment support] | Microsoft {cpp} Team Blog
+
+https://www.youtube.com/watch?v=-V_vHZPOZfY[Using Doxygen to document computing projects] | YouTube
+
+
+== Code formatting / Clang-format
+
+https://clang.llvm.org/docs/ClangFormat.html[Clang-format] | Clang Documentation
+
+https://zed0.co.uk/clang-format-configurator/[clang-format configurator]
+
+https://devblogs.microsoft.com/cppblog/clangformat-support-in-visual-studio-2017-15-7-preview-1/[ClangFormat Support in Visual Studio 2017] | Microsoft {cpp} Team Blog
+
+
+== Standards and Static Code Analysis
+
+http://www.sevangelatos.com/john-carmack-on-static-code-analysis/[In-Depth: Static Code Analysis] | John Carmack
+
+
+== Other
+
+https://semver.org/[Semantic Versioning]

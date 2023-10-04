@@ -1,0 +1,6 @@
+= Make
+include::.attributes[]
+
+https://makefiletutorial.com/[Makefile tutorial] | makefiletutorial.com
+
+https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/[A Simple Makefile Tutorial] | Colby College

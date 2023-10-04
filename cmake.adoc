@@ -1,0 +1,35 @@
+= CMake
+include::.attributes[]
+
+
+== Templates
+
+https://github.com/semerdzhiev/cmake-template[CMake Project Template] (GitHub repo)
+
+== Books & Tutorials
+
+https://cmake.org/cmake/help/latest/guide/tutorial/index.html[CMake Tutorial] | CMake Documentation
+
+Radovan Bast, Roberto Di Remigio (2018). CMake Cookbook: Building, testing, and packaging modular software with modern CMake. _The recipes are available at the book's https://github.com/dev-cafe/cmake-cookbook[GitHub repository]_.
+
+== Concepts
+
+* https://cmake.org/cmake/help/book/mastering-cmake/chapter/CMake%20Cache.html[CMake Cache]
+* https://cmake.org/cmake/help/book/mastering-cmake/chapter/Testing%20With%20CMake%20and%20CTest.html[Testing With CMake and CTest]
+
+== Command line arguments
+
+* https://cmake.org/cmake/help/latest/manual/cmake.1.html[CMake]
+* https://cmake.org/cmake/help/latest/manual/ctest.1.html[CTest]
+
+== Commands
+
+* https://cmake.org/cmake/help/latest/command/project.html[`project()`]
+* https://cmake.org/cmake/help/latest/command/configure_file.html[`configure_file()`]
+* https://cmake.org/cmake/help/latest/command/message.html[`message()`]
+* https://cmake.org/cmake/help/latest/command/option.html[`option()`]
+* https://cmake.org/cmake/help/latest/command/set.html[`set()`]
+
+== Articles
+
+https://vicrucann.github.io/tutorials/quick-cmake-doxygen/[Quick setup to use Doxygen with CMake] | Vicoria Rudakova (2016)

@@ -1,0 +1,186 @@
+= Java
+include::.attributes[]
+
+
+== IDEs/Tools/Libraries
+
+https://www.eclipse.org/[Eclipse]
+
+https://www.jetbrains.com/idea/[IntelliJ IDEA]
+
+https://commons.apache.org/[ApacheCommons]
+
+
+== Books / Tutorials
+
+Oracle Java Tutorials | https://docs.oracle.com/javase/tutorial/index.html
+
+Marc Loy, Patrick Niemeyer, Daniel Leuck (2020) *Learning Java*, An introduction to real world programming with Java. O'Reilly.
+
+Joshua Bloch (2017) *Effective Java*, 3rd Edition
+
+Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft (2019) *Modern Java in Action* Lambdas, Streams, Functional And Reactive Programming. Manning.
+
+Cătălin Tudose (2020) *JUnit in Action*, 3rd ed.
+
+Java Tutorials | http://www.java2s.com/
+
+
+== Assorted topics
+
+https://www.cprogramming.com/tutorial/java/syntax-differences-java-c++.html[Java and {cpp} Syntax Differences Cheat Sheet] | CProgramming
+
+https://softwareengineering.stackexchange.com/questions/98691/excessive-use-final-keyword-in-java[Excessive use “final” keyword in Java] | stackoverflow
+
+https://stackoverflow.com/questions/3516816/java-meaning-of-catch-final-someexception-e[Java: Meaning of catch (final SomeException e)?] | stackoverflow
+
+https://stackoverflow.com/questions/1532461/stringbuilder-vs-string-concatenation-in-tostring-in-java[StringBuilder vs String concatenation in toString() in Java] | stackoverflow
+
+https://stackoverflow.com/questions/4453269/what-is-the-character-encoding-of-string-in-java/4453341[What is the character encoding of String in Java?]
+
+https://www.javainuse.com/java/permgen[Java - PermGen space vs Heap space]
+
+https://www.baeldung.com/java-interface-default-method-vs-abstract-class[Interface With Default Methods vs Abstract Class] | Baeldung
+
+https://www.refreshjava.com/java/initializer-blocks[Static and Instance Initializer blocks in Java] | RefreshJava
+
+
+== Classes
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html[Controlling Access to Members of a Class] | Oracle +
+_Note that `protected` has different semantics than `protected` in {cpp}.Also, there is a 4-th "package-private" level._
+
+https://stackoverflow.com/questions/215497/what-is-the-difference-between-public-protected-package-private-and-private-in/33627846#33627846[What is the difference between public, protected, package-private and private in Java?] | Stack Overflow +
+_This reply has a good visual representation of the rules_
+
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html[Nested Classes] | Oracle +
+_Exercise question: Suppose we have two nested classes `N1` and `N2` inside a class `C`. `N1` has a private variable `var`. Can a method `f()` inside `N2` access `var`?_
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html[Anonymous Classes] | Oracle +
+_Tip: check the sources on `SimpleFileVisitor` below for a good example of how anonyous classes can be used in real applications._
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/localclasses.html[Local Classes] | Oracle
+
+https://stackoverflow.com/questions/15655012/how-does-the-final-keyword-in-java-work-i-can-still-modify-an-object[How does the "final" keyword in Java work? (I can still modify an object.)] | Stack Overflow
+
+https://www.baeldung.com/java-effectively-final[Final vs Effectively Final in Java] | Baeldung
+
+
+https://www.baeldung.com/java-sealed-classes-interfaces[Sealed Classes and Interfaces in Java] | Baeldung
+
+https://docs.oracle.com/en/java/javase/17/language/records.html[Record Classes] | Oracle
+
+https://www.baeldung.com/intro-to-project-lombok[Introduction to Project Lombok] | Baeldung
+
+
+== Lifecycle
+
+https://www.baeldung.com/java-finalize[A Guide to the finalize Method in Java] | Baeldung
+
+https://stackoverflow.com/questions/171952/is-there-a-destructor-for-java[Is there a destructor for Java?] | Stack Overflow
+
+https://stackoverflow.com/questions/158174/why-would-you-ever-implement-finalize[Why would you ever implement finalize()?] | Stack Overflow
+
+https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html[The try-with-resources Statement] | Oracle - The Java Tutorials
+
+https://docs.oracle.com/javase/8/docs/api/java/lang/AutoCloseable.html[Interface AutoCloseable] | Oracle
+
+https://docs.oracle.com/javase/8/docs/api/java/io/Closeable.html[Interface Closeable] | Oracle
+
+https://en.wikipedia.org/wiki/Idempotence[Idempotence] | Wikipedia
+
+https://www.baeldung.com/java-soft-references[Soft References in Java] | Baeldung
+
+https://www.baeldung.com/java-weak-reference[Weak References in Java] | Baeldung
+
+https://www.baeldung.com/java-phantom-reference[Phantom References in Java] | Baeldung
+
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html[Java Garbage Collection Basics] | Oracle
+
+
+== Generics, Variance
+
+https://www.journaldev.com/1663/java-generics-example-method-class-interface[Java Generics Example Tutorial – Generic Method, Class, Interface] | JournalDev
+
+https://albertattard.github.io/java-boot-camp/docs/collections/covariance-invariance/[Covariance and invariance] | Java boot camp
+
+https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)[Covariance and contravariance (computer science)] | Wikipedia
+
+https://stackoverflow.com/questions/16707340/when-to-use-wildcards-in-java-generics[When to use wildcards in Java Generics?] | Stack Overflow
+
+
+== Reflection
+
+https://www.baeldung.com/java-reflection[Guide to java Reflection] | Baeldung
+
+https://www.oracle.com/technical-resources/articles/java/javareflection.html[Using Java Reflection] | Oracle
+
+https://docs.oracle.com/javase/8/docs/technotes/guides/reflection/index.html[Java Reflection API] | Oracle
+
+
+.https://docs.oracle.com/javase/8/docs/api/java/lang/reflect/package-summary.html[Package `java.lang.reflect`]
+
+* https://docs.oracle.com/javase/8/docs/api/java/lang/Class.html[`java.lang.reflect.Class`]
+
+* https://docs.oracle.com/javase/8/docs/api/java/lang/reflect/Method.html[`java.lang.reflect.Method`]
+
+* https://docs.oracle.com/javase/8/docs/api/java/lang/reflect/Constructor.html[`java.lang.reflect.Constructor`]
+
+
+
+== Maven
+
+Maven Tutorial | http://www.java2s.com/Tutorials/Java/Maven_Tutorial/index.htm
+
+* http://www.java2s.com/Tutorials/Java/Maven_Tutorial/index.htm[Introduction]
+* http://www.java2s.com/Tutorials/Java/Maven_Tutorial/1030__Maven_Directory_Structure.htm[Directory Structure]
+
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html[Maven in 5 minutes] | Apache
+
+https://maven.apache.org/guides/getting-started/index.html[Maven Getting Started Guide] | Apache
+
+https://www.baeldung.com/maven[Apache Maven Tutorial] | Baeldung
+
+
+== Unit testing
+
+https://www.vogella.com/tutorials/JUnit/article.html[Unit Testing with JUnit - Tutorial] | Lars Vogel
+
+https://site.mockito.org/[Mockito framework]
+
+https://www.youtube.com/watch?v=QDFI19lj4OM[Unit Testing and Coverage in IntelliJ IDEA] | YouTube
+
+https://junit.org/junit4/javadoc/4.8/org/junit/Assert.html[jUnit 4 Assert class]
+
+https://www.vogella.com/tutorials/JUnit/article.html[Unit Testing with JUnit - Tutorial] | Lars Vogel
+
+https://www.youtube.com/watch?v=QDFI19lj4OM[Unit Testing and Coverage in IntelliJ IDEA] | YouTube
+
+
+== Logging
+
+https://docs.oracle.com/javase/8/docs/technotes/guides/logging/overview.html[Java Logging Overview] | Oracle
+
+https://www.logicbig.com/tutorials/core-java-tutorial/logging/getting-started.html[Getting started with Java Logging]
+
+http://tutorials.jenkov.com/java-logging/index.html[Java Logging] | jenkov.com
+
+https://www.journaldev.com/977/logger-in-java-logging-example[Logger in Java - Java Logging Example] | JournalDev
+
+
+== File System
+
+https://stackoverflow.com/questions/3154488/how-do-i-iterate-through-the-files-in-a-directory-and-its-sub-directories-in-ja[How do I iterate through the files in a directory and it's sub-directories in Java?] | Stack Overflow
+
+https://docs.oracle.com/javase/8/docs/api/java/nio/file/FileVisitor.html[Interface FileVisitor<T>] | Oracle
+
+https://docs.oracle.com/javase/8/docs/api/java/nio/file/SimpleFileVisitor.html[Class SimpleFileVisitor<T>] | Oracle
+
+
+
+== Standards and Static Code Analysis
+
+https://rules.sonarsource.com/java[SonarCube (Java)]
+
+https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java[SEI CERT Oracle Coding Standard for Java]
