@@ -6,6 +6,8 @@ include::.attributes[]
 
 https://github.com/semerdzhiev/cmake-template[CMake Project Template] (GitHub repo)
 
+https://palikar.github.io/posts/cmake_structure/[The optimal CMake project structure] | Stanislav Arnaudov
+
 == Books & Tutorials
 
 https://cmake.org/cmake/help/latest/guide/tutorial/index.html[CMake Tutorial] | CMake Documentation
