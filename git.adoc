@@ -27,8 +27,9 @@ https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
 * 7.7: https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified[Git Tools - Reset Demystified]  +
 * Chapter 10: https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain[Git Internals]
 
-
 === Hashing
+
+https://git-scm.com/docs/git-hash-object[`git hash-object`]
 
 https://github.blog/2017-03-20-sha-1-collision-detection-on-github-com/[SHA-1 collision detection on GitHub.com]
 | Jeff King (2017)
@@ -174,7 +175,18 @@ https://www.zdnet.com/article/microsoft-urges-users-to-stop-using-phone-based-mu
 
 https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-why-pin-is-better-than-password[Why a PIN is better than a password] | Microsoft
 
+=== Signing
 
+https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
+* 7.4 Git Tools – https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work[Signing Your Work] | Git - Book
+
+https://medium.com/@rwieruch/why-and-how-you-should-sign-all-your-git-commits-3b5ad0e6d6c2[Why and How You Should Sign All Your Git Commits]] | Robin Wieruch (2022)
+
+https://stackoverflow.com/questions/1962094/what-is-the-sign-off-feature-in-git-for[What is the “sign-off” feature in Git for?] | Stack Overflow
+
+https://www.kernel.org/doc/html/v4.17/process/submitting-patches.html#sign-your-work-the-developer-s-certificate-of-origin[Sign your work: the Developer's Certificate of Origin] | kernel.org
+
+https://developercertificate.org/[Developer Certificate of Origin]
 
 == Processes. Repository organization and maintenance.
 
@@ -203,10 +215,14 @@ https://paulhammant.com/2013/03/13/facebook-tbd-take-2/[Facebook's Trunk-Based D
 | Paul Hammant 
 
 https://paulhammant.com/2013/05/06/googles-scaled-trunk-based-development/[Google's Scaled Trunk-Based Development]
-| Paul Hammant 
+| Paul Hammant
+
+https://paulhammant.com/2014/01/06/googlers-subset-their-trunk/[Googlers Subset Their Trunk] | Paul Hammant
 
 https://paulhammant.com/2014/04/03/microsofts-trunk-based-development/[Microsoft's Trunk-Based Development]
-| Paul Hammant 
+| Paul Hammant
+
+https://paulhammant.com/2013/12/05/continuous-review/[Continuous Review] | Paul Hammant
 
 
 
