@@ -1,6 +1,6 @@
 = Git
 include::.attributes[]
-
+:toc:
 
 == Introduction
 
@@ -167,7 +167,7 @@ https://semver.org/[Semantic Versioning]
 
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/githubs-ssh-key-fingerprints[GitHub's SSH key fingerprints] | GitHub
 
-https://docs.gitlab.com/ee/ssh/[GitLab and SSH keys] | GitLab
+https://docs.gitlab.com/ee/user/ssh.html[Use SSH keys to communicate with GitLab] | GitLab
 
 https://coderwall.com/p/7smjkq/multiple-ssh-keys-for-different-accounts-on-github-or-gitlab[Multiple SSH keys for different accounts on Github or Gitlab] | Coderwall
 

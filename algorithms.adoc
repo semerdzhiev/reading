@@ -60,6 +60,8 @@ https://xinok.wordpress.com/2014/08/17/in-place-merge-sort-demystified-2/[In-Pla
 
 https://en.wikipedia.org/wiki/Introsort[Introsort] | Wikipedia +
 
+https://cs.stackexchange.com/questions/3/why-is-quicksort-better-than-other-sorting-algorithms-in-practice[Why is quicksort better than other sorting algorithms in practice?] | StackExchange
+
 
 == Red-Black Tree
 

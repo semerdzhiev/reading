@@ -35,3 +35,5 @@ Radovan Bast, Roberto Di Remigio (2018). CMake Cookbook: Building, testing, and 
 == Articles
 
 https://vicrucann.github.io/tutorials/quick-cmake-doxygen/[Quick setup to use Doxygen with CMake] | Vicoria Rudakova (2016)
+
+https://matgomes.com/setting-cpp-standard-cmake/[Setting C++ Standard with CMake] | Matheus Gomes (2019)

@@ -2,7 +2,7 @@
 include::.attributes[]
 
 
-== Assorted Topics
+== Books
 
 Robert C. Martin (2008) *Clean Code: A Handbook of Agile Software Craftsmanship*.
 
@@ -18,6 +18,14 @@ Karl Wiegers; Joy Beatty (2013) *Software Requirements*, 3rd ed. ISBN 9780735679
 
 Steve McConnell (2004) *Code Complete: A Practical Handbook of Software Construction*, 2nd ed. ISBN 978-0735619678.
 
+== Assorted
+
+https://blog.palantir.com/code-review-best-practices-19e02780015f[Code Review Best Practices] | Palantir Blog
+
+.How To Write Unmaintainable Code | Roedy Green
+* https://www.mindprod.com/jgloss/unmain.html
+* https://www.doc.ic.ac.uk/~susan/475/unmain.html[Mirror of the essay from 1999]
+* https://cs.fit.edu/~kgallagher/Schtick/How%20To%20Write%20Unmaintainable%20Code.html[yet another mirror]
 
 == Processes and methodologies
 
@@ -68,6 +76,12 @@ https://petroware.no/unittesting.html
 
 The evolution of Unit Testing Syntax and Semantics +
 https://osherove.com/blog/2008/1/17/the-evolution-of-unit-testing-syntax-and-semantics.html
+
+https://haacked.com/archive/2012/01/02/structuring-unit-tests.aspx/[Structuring Unit Tests] | Phil Haack
+
+https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices[.NET Core Unit Testing Best Practices] | Microsoft Docs
+
+https://stackoverflow.com/questions/17441677/c-unit-test-testing-using-template-test-class[How to use template test class in C++ unit test] | Stack Overflow
 
 
 == Code documentation

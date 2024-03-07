@@ -20,6 +20,8 @@ https://martinfowler.com/eaaDev/[Development of Further Patterns of Enterprise A
 
 == Articles
 
+https://stackoverflow.com/questions/3489131/difference-between-the-facade-proxy-adapter-and-decorator-design-patterns[Difference between the Facade, Proxy, Adapter and Decorator design patterns] | Stack Overflow
+
 https://martinfowler.com/eaaDev/MediatedSynchronization.html[Observer Synchronization] | Martin Fowler
 
 https://www.martinfowler.com/eaaDev/uiArchs.html[GUI Architectures] | Martin Fowler

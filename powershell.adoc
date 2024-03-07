@@ -1,0 +1,4 @@
+= PowerShell
+include::.attributes[]
+
+https://learn.microsoft.com/en-us/archive/blogs/kebab/an-introduction-to-error-handling-in-powershell[An introduction to error handling in PowerShell] | Microsoft
