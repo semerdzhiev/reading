@@ -1,15 +1,14 @@
 ﻿= Unicode
 include::.attributes[]
 
+https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/[Let's Stop Ascribing Meaning to Code Points] | Manish Goregaokar (2017)
 
-*Let's Stop Ascribing Meaning to Code Points* +
-Manish Goregaokar (2017) +
-https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/
+https://begriffs.com/posts/2019-05-23-unicode-icu.html[Unicode programming, with examples] | begriffs (2019)
 
-*Unicode programming, with examples* +
-begriffs (2019) +
-https://begriffs.com/posts/2019-05-23-unicode-icu.html
+https://unicode.org/reports/tr15/[Unicode® Standard Annex #15: Unicode Normalization forms] | Unicode Consortium
 
-*Unicode® Standard Annex #15: Unicode Normalization forms* +
-Unicode Consortium +
-https://unicode.org/reports/tr15/
+https://jkorpela.fi/chars.html[A tutorial on character code issues] | Jukka Korpela
+
+https://www.alanwood.net/unicode/combining_diacritical_marks.html[Combining Diacritical Marks] | Alan Wood
+
+https://www.iana.org/assignments/character-sets/character-sets.xhtml[Character Sets] | IANA
