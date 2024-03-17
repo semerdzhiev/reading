@@ -63,6 +63,12 @@ git log
 
 git reflog
 
+https://www.baeldung.com/ops/git-commit-search-string[Searching for a String in Git Commits] | Baeldung
+
+https://www.atlassian.com/git/tutorials/git-log[Advanced Git Log] | Atlassian
+
+https://nickjanetakis.com/blog/counting-all-git-commits-from-all-authors-and-more-with-git-shortlog[Counting All Git Commits from All Authors and More with Git Shortlog] | Nick Janetakis
+
 === Pruning
 
 https://www.atlassian.com/git/tutorials/git-prune[Git Prune]
