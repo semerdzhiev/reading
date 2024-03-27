@@ -57,11 +57,11 @@ https://git-scm.com/docs/git-ls-files[`ls-files`]
 
 https://git-scm.com/docs/git-ls-tree[`ls-tree`]
 
-https://stackoverflow.com/questions/23303549/what-are-commit-ish-and-tree-ish-in-git[What are commit-ish and tree-ish in Git?]
+https://git-scm.com/docs/git-log[`git-log`]
 
-git log
+https://git-scm.com/docs/git-reflog[`git-reflog`]
 
-git reflog
+https://stackoverflow.com/questions/68738375/can-git-ls-tree-list-the-index[Can git ls-tree list the index?] | Stack Overflow
 
 https://www.baeldung.com/ops/git-commit-search-string[Searching for a String in Git Commits] | Baeldung
 
