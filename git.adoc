@@ -69,6 +69,28 @@ https://www.atlassian.com/git/tutorials/git-log[Advanced Git Log] | Atlassian
 
 https://nickjanetakis.com/blog/counting-all-git-commits-from-all-authors-and-more-with-git-shortlog[Counting All Git Commits from All Authors and More with Git Shortlog] | Nick Janetakis
 
+=== Comparing stuff
+
+https://git-scm.com/docs/git-diff[`git diff`]
+
+https://www.git-tower.com/learn/git/faq/git-diff/[git diff — Inspecting and Comparing Changes in Git] | Git Tower
+
+=== Revisions
+
+https://stackoverflow.com/questions/23303549/what-are-commit-ish-and-tree-ish-in-git[What are commit-ish and tree-ish in Git?] | Stack Overflow
+
+https://git-scm.com/docs/git#_identifier_terminology[Git Identifier Terminology] (https://mirrors.edge.kernel.org/pub/software/scm/git/docs/#_identifier_terminology[also available here])
+
+https://git-scm.com/docs/gitrevisions[`git-revisions`] (https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitrevisions.html[also available here])
+
+=== Ignoring things and cleaning untracked stuff
+
+https://www.atlassian.com/git/tutorials/saving-changes/gitignore[gitignore] | Atlassian
+
+https://github.com/github/gitignore[Collection of .gitignore files] at GitHub
+
+https://git-scm.com/docs/git-clean[`git clean`]
+
 === Pruning
 
 https://www.atlassian.com/git/tutorials/git-prune[Git Prune]
@@ -82,21 +104,6 @@ https://stackoverflow.com/questions/3765234/listing-and-deleting-git-commits-tha
 
 https://stackoverflow.com/questions/50135844/what-does-git-do-when-we-do-git-gc-git-prune[What does git do when we do : git gc - git prune]
 | Stack Overflow 
-
-=== Comparing stuff
-
-https://git-scm.com/docs/git-diff[`git diff`]
-
-https://www.git-tower.com/learn/git/faq/git-diff/[git diff — Inspecting and Comparing Changes in Git] | Git Tower
-
-=== Ignoring things and cleaning untracked stuff
-
-https://www.atlassian.com/git/tutorials/saving-changes/gitignore[gitignore] | Atlassian
-
-https://github.com/github/gitignore[Collection of .gitignore files] at GitHub
-
-https://git-scm.com/docs/git-clean[`git clean`]
-
 
 == Tools
 
