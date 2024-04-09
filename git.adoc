@@ -270,6 +270,10 @@ https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting[Res
 
 https://howchoo.com/g/njcyntcxmwq/git-merge-conflicts-rebase-ours-theirs[Git: Handling Merge Conflicts Using "Ours" and "Theirs"]
 
+https://stackoverflow.com/questions/34572096/how-do-cherry-pick-and-revert-work[How do cherry-pick and revert work?] | Stack Overflow
+
+https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/[How git cherry-pick and revert use 3-way merge] | Julia Evans
+
 https://devblogs.microsoft.com/oldnewthing/20180323-01/?p=98325[Stop cherry-picking, start merging: Index]
 | The Old New Thing 
 
