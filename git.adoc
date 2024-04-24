@@ -9,18 +9,18 @@ include::.attributes[]
 * Working diretory, staging area/index; commiting
 * Viewing objects (`git cat-file`)
 * The three trees of git
-* Removing a file (`git rm`); 
-* How branches work; branching; `git branch`; `git checkout -b` 
+* Removing a file (`git rm`);
+* How branches work; branching; `git branch`; `git checkout -b`
 * `git commit --amend`
 * `git checkout`
-* `git reset` (`--hard`, `--soft`, `--mixed`); checkout vs reset 
+* `git reset` (`--hard`, `--soft`, `--mixed`); checkout vs reset
 * Detached `HEAD`; what happens with dangling commits; pruning;
-* `git reflog`; нотация тип `HEAD@{1}` и `HEAD~1`; 
+* `git reflog`; нотация тип `HEAD@{1}` и `HEAD~1`;
 * `.gitignore`
-* `git clean` 
+* `git clean`
 * Deleting a branch (`git branch -d`); deletable/non-deletable branches;
 
-https://maryrosecook.com/blog/post/git-from-the-inside-out[Git from the inside out] | Mary Rose Cook 
+https://maryrosecook.com/blog/post/git-from-the-inside-out[Git from the inside out] | Mary Rose Cook
 
 https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
 * Chapter 2: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository[Git Basics] +
@@ -44,10 +44,10 @@ https://alblue.bandlem.com/2011/08/git-tip-of-week-objects.html[Git Tip of the W
 === Basic operations
 
 https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting[Resetting, Checking Out & Reverting]
-| Atlassian 
+| Atlassian
 
 https://www.atlassian.com/git/tutorials/undoing-changes/git-reset[Git Reset]
-| Atlassian 
+| Atlassian
 
 === Viewing stuff
 
@@ -94,16 +94,16 @@ https://git-scm.com/docs/git-clean[`git clean`]
 === Pruning
 
 https://www.atlassian.com/git/tutorials/git-prune[Git Prune]
-| Atlassian 
+| Atlassian
 
 https://stackoverflow.com/questions/2613903/does-deleting-a-branch-in-git-remove-it-from-the-history[Does deleting a branch in git remove it from the history?]
-| Stack Overflow 
+| Stack Overflow
 
 https://stackoverflow.com/questions/3765234/listing-and-deleting-git-commits-that-are-under-no-branch-dangling/4528593[Listing and deleting Git commits that are under no branch (dangling?)]
-| Stack Overflow 
+| Stack Overflow
 
 https://stackoverflow.com/questions/50135844/what-does-git-do-when-we-do-git-gc-git-prune[What does git do when we do : git gc - git prune]
-| Stack Overflow 
+| Stack Overflow
 
 === Trailers
 
@@ -172,7 +172,7 @@ https://github.com/semerdzhiev/Color-scheme-for-Git[Sample configuration]
 
 == Best practices
 
-https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html[A Note About Git Commit Messages] | Tim Pope (2008) 
+https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html[A Note About Git Commit Messages] | Tim Pope (2008)
 
 https://www.conventionalcommits.org/[Conventional Commits] - A specification for adding human and machine readable meaning to commit messages
 
@@ -221,19 +221,19 @@ https://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html[Co
 | James Shore
 
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow[Gitflow Workflow]
-| Atlassian 
+| Atlassian
 
 https://paulhammant.com/2013/04/05/what-is-trunk-based-development/[What is Trunk-Based Development?]
-| Paul Hammant 
+| Paul Hammant
 
 https://paulhammant.com/blog/branch_by_abstraction.html[Introducing Branch By Abstraction]
-| Paul Hammant 
+| Paul Hammant
 
 https://paulhammant.com/2013/03/04/facebook-tbd/[Trunk-Based Development at Facebook]
-| Paul Hammant 
+| Paul Hammant
 
 https://paulhammant.com/2013/03/13/facebook-tbd-take-2/[Facebook's Trunk-Based Development (take 2)]
-| Paul Hammant 
+| Paul Hammant
 
 https://paulhammant.com/2013/05/06/googles-scaled-trunk-based-development/[Google's Scaled Trunk-Based Development]
 | Paul Hammant
@@ -249,11 +249,11 @@ https://paulhammant.com/2013/12/05/continuous-review/[Continuous Review] | Paul 
 
 == Changing History
 
-* Няколко основни сценария на работа, при които избираме какво да остане в историята; squashing (git rebase -i), amend (git commit --amend), interactive add (git add -i); 
-* Merge, Rebase, Interactive rebase 
-* git revert 
-* merging and rebasing; merge vs rebase for committing your work; git pull vs git pull --rebase; 
-* Interactive rebase 
+* Няколко основни сценария на работа, при които избираме какво да остане в историята; squashing (git rebase -i), amend (git commit --amend), interactive add (git add -i);
+* Merge, Rebase, Interactive rebase
+* git revert
+* merging and rebasing; merge vs rebase for committing your work; git pull vs git pull --rebase;
+* Interactive rebase
 * Resolving conflicts when merging/rebasing;
 
 https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
@@ -265,7 +265,7 @@ https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
 * A3.4 Appendix C: https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Branching-and-Merging[Git Commands - Branching and Merging]
 
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing[Merging vs. Rebasing]
-| Atlassian 
+| Atlassian
 
 https://hackernoon.com/beginners-guide-to-interactive-rebasing-346a3f9c3a6d[Beginner's Guide to Interactive Rebasing]
 | Stride @ Hackernoon (2018)
@@ -274,7 +274,7 @@ https://blog.dnsimple.com/2019/01/two-years-of-squash-merge/[Two years of squash
 | Simone Carletti (2019)
 
 https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting[Resetting, Checking Out & Reverting]
-| Atlassian 
+| Atlassian
 
 https://howchoo.com/g/njcyntcxmwq/git-merge-conflicts-rebase-ours-theirs[Git: Handling Merge Conflicts Using "Ours" and "Theirs"]
 
@@ -283,7 +283,7 @@ https://stackoverflow.com/questions/34572096/how-do-cherry-pick-and-revert-work[
 https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/[How git cherry-pick and revert use 3-way merge] | Julia Evans
 
 https://devblogs.microsoft.com/oldnewthing/20180323-01/?p=98325[Stop cherry-picking, start merging: Index]
-| The Old New Thing 
+| The Old New Thing
 
 https://stackoverflow.com/questions/65225055/how-does-git-rebase-work-under-the-hood[How does `git rebase` work under the hood?] | Stack Overflow
 
