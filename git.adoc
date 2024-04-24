@@ -223,6 +223,8 @@ https://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html[Co
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow[Gitflow Workflow]
 | Atlassian
 
+https://trunkbaseddevelopment.com/[Trunk Based Development] | trunkbaseddevelopment.com
+
 https://paulhammant.com/2013/04/05/what-is-trunk-based-development/[What is Trunk-Based Development?]
 | Paul Hammant
 
