@@ -105,6 +105,14 @@ https://stackoverflow.com/questions/3765234/listing-and-deleting-git-commits-tha
 https://stackoverflow.com/questions/50135844/what-does-git-do-when-we-do-git-gc-git-prune[What does git do when we do : git gc - git prune]
 | Stack Overflow 
 
+=== Trailers
+
+https://git-scm.com/docs/git-interpret-trailers[`git interpret-trailers`]
+
+https://alchemists.io/articles/git_trailers[Git Trailers] | Brooke Kuhlmann / Alchemists
+
+https://stackoverflow.com/questions/58525836/git-magic-keywords-in-commit-messages-signed-off-by-co-authored-by-fixes[Git magic keywords in commit messages: Signed-off-by, Co-authored-by, Fixes] | Stack Overflow
+
 == Tools
 
 https://git-scm.com/downloads/guis[GUI Clients list at git-scm.com]
