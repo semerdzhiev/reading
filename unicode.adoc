@@ -12,3 +12,5 @@ https://jkorpela.fi/chars.html[A tutorial on character code issues] | Jukka Korp
 https://www.alanwood.net/unicode/combining_diacritical_marks.html[Combining Diacritical Marks] | Alan Wood
 
 https://www.iana.org/assignments/character-sets/character-sets.xhtml[Character Sets] | IANA
+
+https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345[A popular but wrong way to convert a string to uppercase or lowercase] | Raymond Chen
