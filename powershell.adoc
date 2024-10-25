@@ -13,4 +13,6 @@ https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/overview
 
 https://learn.microsoft.com/en-us/archive/blogs/kebab/an-introduction-to-error-handling-in-powershell[An introduction to error handling in PowerShell] | Microsoft
 
+https://learn.microsoft.com/en-us/windows/terminal/[Windows Terminal] | Microsoft
+
 https://learn.microsoft.com/en-us/windows/console/ecosystem-roadmap[Windows Console and Terminal Ecosystem Roadmap] | Microsoft
