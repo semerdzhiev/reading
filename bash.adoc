@@ -1,0 +1,8 @@
+= Bash
+include::.attributes[]
+
+https://learn.microsoft.com/en-us/training/modules/bash-introduction/[Introduction to Bash] | Microsoft
+
+https://linuxcommand.org/tlcl.php[The Linux Command Line] | William Shotts
+
+https://github.com/dylanaraps/pure-bash-bible[Pure Bash Bible]

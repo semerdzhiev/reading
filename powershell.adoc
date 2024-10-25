@@ -1,4 +1,16 @@
 = PowerShell
 include::.attributes[]
 
+Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, Jeffery Hicks (2022) **Learn PowerShell in a Month of Lunches**, Fourth Edition. Manning Publications. ISBN 9781617296963
+
+.PowerShell 101 | Mike F. Robbins
+* https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.4[Free version available from Microsoft]
+* https://leanpub.com/powershell101[Original available at Leanpub]
+
+https://learn.microsoft.com/en-us/powershell/scripting/learn/shell/optimize-shell?view=powershell-7.4[Optimizing your shell experience] | Microsoft
+
+https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/overview?view=powershell-7.4[Deep Dives] | Microsoft
+
 https://learn.microsoft.com/en-us/archive/blogs/kebab/an-introduction-to-error-handling-in-powershell[An introduction to error handling in PowerShell] | Microsoft
+
+https://learn.microsoft.com/en-us/windows/console/ecosystem-roadmap[Windows Console and Terminal Ecosystem Roadmap] | Microsoft
