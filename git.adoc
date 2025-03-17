@@ -27,6 +27,8 @@ https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
 * 7.7: https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified[Git Tools - Reset Demystified]  +
 * Chapter 10: https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain[Git Internals]
 
+https://git-scm.com/docs/gitglossary[gitglossary - A Git Glossary]
+
 === Hashing
 
 https://git-scm.com/docs/git-hash-object[`git hash-object`]
@@ -69,6 +71,10 @@ https://www.atlassian.com/git/tutorials/git-log[Advanced Git Log] | Atlassian
 
 https://nickjanetakis.com/blog/counting-all-git-commits-from-all-authors-and-more-with-git-shortlog[Counting All Git Commits from All Authors and More with Git Shortlog] | Nick Janetakis
 
+=== Attributes
+
+https://git-scm.com/docs/gitattributes[gitattributes - Defining attributes per path]
+
 === Comparing stuff
 
 https://git-scm.com/docs/git-diff[`git diff`]
@@ -82,6 +88,17 @@ https://stackoverflow.com/questions/23303549/what-are-commit-ish-and-tree-ish-in
 https://git-scm.com/docs/git#_identifier_terminology[Git Identifier Terminology] (https://mirrors.edge.kernel.org/pub/software/scm/git/docs/#_identifier_terminology[also available here])
 
 https://git-scm.com/docs/gitrevisions[`git-revisions`] (https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitrevisions.html[also available here])
+
+https://git-scm.com/docs/git-rev-parse[`git rev-parse`]
+
+=== Tags
+
+.Scott Chacon, Ben Straub. Git - Book
+* https://git-scm.com/book/en/v2/Git-Basics-Tagging[Chapter 2.6: Tagging]
+
+https://git-scm.com/docs/git-tag[`git tag`]
+
+https://stackoverflow.com/questions/4971746/why-should-i-care-about-lightweight-vs-annotated-tags[Why should I care about lightweight vs. annotated tags?] | Stack Overflow
 
 === Ignoring things and cleaning untracked stuff
 
