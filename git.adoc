@@ -75,6 +75,8 @@ https://nickjanetakis.com/blog/counting-all-git-commits-from-all-authors-and-mor
 
 https://git-scm.com/docs/gitattributes[gitattributes - Defining attributes per path]
 
+https://stackoverflow.com/questions/10418975/how-to-change-line-ending-settings[How to change line-ending settings] | Stack Overflow
+
 === Comparing stuff
 
 https://git-scm.com/docs/git-diff[`git diff`]
