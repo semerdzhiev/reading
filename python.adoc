@@ -2,14 +2,18 @@
 include::.attributes[]
 
 
-The Python Tutorial | python.org +
-https://docs.python.org/3/tutorial/
+https://python.swaroopch.com/[A Byte of Python]
 
-Dive Into Python 3 +
-https://diveintopython3.problemsolving.io/
+https://docs.python.org/3/tutorial/[The Python Tutorial] | python.org
 
-Object-Oriented Programming (OOP) in Python 3 | Real Python +
-https://realpython.com/python3-object-oriented-programming/
+https://github.com/amontalenti/elements-of-python-style[The Elements of Python Style] | Andrew Montalenti
 
-Solve Python | HackerRank +
-https://www.hackerrank.com/domains/python
+https://docs.python-guide.org/writing/structure/[The Hitchhiker’s Guide to Python] | The Hitchhiker’s Guide to Python
+
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html[Type hints cheat sheet] | Mypy
+
+https://realpython.com/introduction-to-python-generators/[Introduction to Python Generators] | Real Python
+
+https://realpython.com/python-iterators-iterables/[Python Iterators and Iterables] | Real Python
+
+https://realpython.com/python3-object-oriented-programming/[Python 3 Object-Oriented Programming] | Real Python
