@@ -1,6 +1,7 @@
 = Python
 include::.attributes[]
 
+== Tutorials and Guides
 
 https://python.swaroopch.com/[A Byte of Python]
 
@@ -10,6 +11,10 @@ https://github.com/amontalenti/elements-of-python-style[The Elements of Python S
 
 https://docs.python-guide.org/writing/structure/[The Hitchhiker’s Guide to Python] | The Hitchhiker’s Guide to Python
 
+https://www.pythoncheatsheet.org/[Python Cheat Sheet] | Python Cheatsheet
+
+== Assorted Topics
+
 https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html[Type hints cheat sheet] | Mypy
 
 https://realpython.com/introduction-to-python-generators/[Introduction to Python Generators] | Real Python
@@ -17,3 +22,28 @@ https://realpython.com/introduction-to-python-generators/[Introduction to Python
 https://realpython.com/python-iterators-iterables/[Python Iterators and Iterables] | Real Python
 
 https://realpython.com/python3-object-oriented-programming/[Python 3 Object-Oriented Programming] | Real Python
+
+== Library
+
+https://docs.python.org/3/library/argparse.html[argparse — Parser for command-line options, arguments and subcommands] | python.org
+
+https://docs.python.org/3/library/csv.html[csv — CSV file reading and writing] | python.org
+
+https://docs.python.org/3/library/configparser.html[configparser — ConfigParser documentation] | python.org
+
+https://docs.python.org/3/library/logging.html[logging — Logging facility for Python] | python.org
+
+https://docs.python.org/3/library/zipfile.html[zipfile — Work with ZIP archives] | python.org
+
+
+== Pytest
+
+https://pytest-with-eric.com/[Pytest with Eric] | Eric Sales De Andrade
+
+https://docs.pytest.org/en/stable/how-to/index.html[Pytest how-to guides] | Pytest
+
+https://docs.pytest.org/en/stable/example/index.html[Pytest examples] | Pytest
+
+https://www.freecodecamp.org/news/python-requirementstxt-explained/[Python requirements.txt explained] | freeCodeCamp
+
+https://www.softwaretestinghelp.com/pytest-tutorial/[Pytest Tutorial] | Software Testing Help
