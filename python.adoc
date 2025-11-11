@@ -7,11 +7,17 @@ https://python.swaroopch.com/[A Byte of Python]
 
 https://docs.python.org/3/tutorial/[The Python Tutorial] | python.org
 
-https://github.com/amontalenti/elements-of-python-style[The Elements of Python Style] | Andrew Montalenti
-
 https://docs.python-guide.org/writing/structure/[The Hitchhiker’s Guide to Python] | The Hitchhiker’s Guide to Python
 
 https://www.pythoncheatsheet.org/[Python Cheat Sheet] | Python Cheatsheet
+
+https://www.practicaldatascience.org/intro.html[Practical Data Science in Python]
+
+== Style
+
+https://peps.python.org/pep-0008/[PEP 8 – Style Guide for Python Code]
+
+https://github.com/amontalenti/elements-of-python-style[The Elements of Python Style] | Andrew Montalenti
 
 == Assorted Topics
 
@@ -23,7 +29,7 @@ https://realpython.com/python-iterators-iterables/[Python Iterators and Iterable
 
 https://realpython.com/python3-object-oriented-programming/[Python 3 Object-Oriented Programming] | Real Python
 
-== Library
+== Standard Library
 
 https://docs.python.org/3/library/argparse.html[argparse — Parser for command-line options, arguments and subcommands] | python.org
 
@@ -31,10 +37,23 @@ https://docs.python.org/3/library/csv.html[csv — CSV file reading and writing]
 
 https://docs.python.org/3/library/configparser.html[configparser — ConfigParser documentation] | python.org
 
-https://docs.python.org/3/library/logging.html[logging — Logging facility for Python] | python.org
-
 https://docs.python.org/3/library/zipfile.html[zipfile — Work with ZIP archives] | python.org
 
+https://docs.python.org/3/library/exceptions.html[Built-in Exceptions] | python.org
+
+https://docs.python.org/3/reference/datamodel.html#emulating-container-types[Emulating container types] | python.org
+
+== Logging
+
+https://docs.python.org/3/library/logging.html[logging — Logging facility for Python] | python.org
+
+https://docs.python.org/3/howto/logging.html[Logging HOWTO] | Vinay Sajip
+
+https://docs.python.org/3/howto/logging-cookbook.html[Logging Cookbook] | Vinay Sajip
+
+https://stackoverflow.com/questions/384076/how-can-i-color-python-logging-output[How can I color Python logging output?] | StackOverflow
+
+https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences[List of ANSI color escape sequences] | StackOverflow
 
 == Pytest
 
@@ -47,3 +66,31 @@ https://docs.pytest.org/en/stable/example/index.html[Pytest examples] | Pytest
 https://www.freecodecamp.org/news/python-requirementstxt-explained/[Python requirements.txt explained] | freeCodeCamp
 
 https://www.softwaretestinghelp.com/pytest-tutorial/[Pytest Tutorial] | Software Testing Help
+
+== Docstring
+
+https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html[Writing docstrings]
+
+== Pandas
+
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html[Getting Started with Pandas] | Pandas
+
+https://pandas.pydata.org/docs/user_guide/index.html[User Guide] | Pandas
+
+== GUI
+
+https://doc.qt.io/qt-6/model-view-programming.html[Model/View Programming]
+
+https://www.pythonguis.com/tutorials/modelview-architecture/[ModelView Architecture in PyQt5] | Python GUIs
+
+https://www.pythonguis.com/tutorials/qtableview-modelviews-numpy-pandas/[Displaying Tabular Data in PyQt5 ModelViews] | Python GUIs
+
+https://doc.qt.io/qtforpython-6/tutorials/expenses/expenses.html[Expenses Example] | Qt for Python
+
+https://doc.qt.io/qtforpython-6/tutorials/basictutorial/widgets.html#tutorial-widgets[Your First QtWidgets Application] | Qt for Python
+
+https://www.pythonguis.com/tutorials/pyside6-creating-your-first-window/[Creating Your First Window with PySide6] | Python GUIs
+
+https://runebook.dev/en/articles/qt/qtableview/resizeRowToContents[Optimize Qt QTableView: Advanced Row Resizing Techniques] | Runebook.dev
+
+https://stackoverflow.com/questions/14068823/how-to-create-filters-for-qtableview-in-pyqt[How to create filters for QTableView in PyQt] | Stack Overflow
