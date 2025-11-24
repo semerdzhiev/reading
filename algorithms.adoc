@@ -63,6 +63,17 @@ https://en.wikipedia.org/wiki/Introsort[Introsort] | Wikipedia +
 https://cs.stackexchange.com/questions/3/why-is-quicksort-better-than-other-sorting-algorithms-in-practice[Why is quicksort better than other sorting algorithms in practice?] | StackExchange
 
 
+== Binary Trees
+
+https://devblogs.microsoft.com/oldnewthing/20251105-00/?p=111765[Non-recursively deleting a binary tree in constant space: Traversal with parent pointers] | Raymond Chen, The Old New Thing
+
+https://devblogs.microsoft.com/oldnewthing/20251106-00/?p=111771[Non-recursively deleting a binary tree in constant space: Synthesizing the parent pointer] | Raymond Chen, The Old New Thing
+
+https://devblogs.microsoft.com/oldnewthing/20251107-00/?p=111774[Non-recursively deleting a binary tree in constant space: Restructuring the tree] | Raymond Chen, The Old New Thing
+
+https://devblogs.microsoft.com/oldnewthing/20251112-00/?p=111784[Non-recursively deleting a binary tree in constant space: Rotating the tree] | Raymond Chen, The Old New Thing
+
+
 == Red-Black Tree
 
 https://en.wikipedia.org/wiki/Red%E2%80%93black_tree[Red-Black Tree] | Wikipedia
