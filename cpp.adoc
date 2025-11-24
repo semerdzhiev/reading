@@ -222,3 +222,15 @@ https://learn.microsoft.com/en-us/cpp/cpp/run-time-type-information?view=msvc-17
 * https://en.cppreference.com/w/cpp/language/dynamic_cast[`dynamic_cast`]
 
 * https://en.cppreference.com/w/cpp/types/type_info[`std::type_info`]
+
+== Bits and pieces
+
+=== Bitfields
+
+http://mjfrazer.org/mjfrazer/bitfields/[How Endianness Effects Bitfield Packing] | Mark Frazer
+
+https://wiki.sei.cmu.edu/confluence/display/c/EXP11-C.+Do+not+make+assumptions+regarding+the+layout+of+structures+with+bit-fields[EXP11-C. Do not make assumptions regarding the layout of structures with bit-fields] | SEI CERT C Coding Standard
+
+=== Strict Aliasing
+
+https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8[What is the Strict Aliasing Rule and Why do we care?]
