@@ -4,7 +4,7 @@ include::.attributes[]
 
 == Templates
 
-https://github.com/semerdzhiev/cmake-template[CMake Project Template] (GitHub repo)
+https://github.com/semerdzhiev/cmake-templates[CMake Project Templates] (GitHub repo)
 
 https://palikar.github.io/posts/cmake_structure/[The optimal CMake project structure] | Stanislav Arnaudov
 
