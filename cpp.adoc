@@ -234,3 +234,9 @@ https://wiki.sei.cmu.edu/confluence/display/c/EXP11-C.+Do+not+make+assumptions+r
 === Strict Aliasing
 
 https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8[What is the Strict Aliasing Rule and Why do we care?]
+
+== Floating-point numbers
+
+https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/[Comparing Floating Point Numbers, 2012 Edition] | Bruce Dawson
+
+https://bitbashing.io/comparing-floats.html[Comparing Floating-Point Numbers Is Tricky] | Bit Bashing
