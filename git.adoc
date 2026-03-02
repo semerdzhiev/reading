@@ -236,6 +236,8 @@ https://developercertificate.org/[Developer Certificate of Origin]
 Robert Martin (2019) Clean Agile: Back to Basics +
 * Chapter 1: Introduction to agile
 
+https://martinfowler.com/articles/branching-patterns.html[Patterns for Managing Source Code Branches] | Martin Fowler
+
 https://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html[Continuous Integration on a Dollar a Day]
 | James Shore
 

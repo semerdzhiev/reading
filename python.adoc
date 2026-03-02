@@ -19,6 +19,10 @@ https://peps.python.org/pep-0008/[PEP 8 – Style Guide for Python Code]
 
 https://github.com/amontalenti/elements-of-python-style[The Elements of Python Style] | Andrew Montalenti
 
+== Project Structure and Organization
+
+https://packaging.python.org/en/latest/[Python Packaging User Guide] | python.org
+
 == Assorted Topics
 
 https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html[Type hints cheat sheet] | Mypy
