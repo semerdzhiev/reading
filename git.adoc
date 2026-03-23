@@ -43,7 +43,11 @@ https://stackoverflow.com/questions/7225313/how-does-git-compute-file-hashes[How
 
 https://alblue.bandlem.com/2011/08/git-tip-of-week-objects.html[Git Tip of the Week: Objects] _(Also has some notes on how Git hashes files)_
 
-=== Basic operations
+=== References
+
+https://git-scm.com/docs/git-check-ref-format[`git-check-ref-format`]
+
+=== Branches
 
 https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting[Resetting, Checking Out & Reverting]
 | Atlassian
@@ -51,7 +55,16 @@ https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting[Res
 https://www.atlassian.com/git/tutorials/undoing-changes/git-reset[Git Reset]
 | Atlassian
 
-=== Viewing stuff
+=== Tags
+
+.Scott Chacon, Ben Straub. Git - Book
+* https://git-scm.com/book/en/v2/Git-Basics-Tagging[Chapter 2.6: Tagging]
+
+https://git-scm.com/docs/git-tag[`git tag`]
+
+https://stackoverflow.com/questions/4971746/why-should-i-care-about-lightweight-vs-annotated-tags[Why should I care about lightweight vs. annotated tags?] | Stack Overflow
+
+=== Information about the index and the tree objects
 
 https://git-scm.com/docs/git-ls-files[`cat-file`]
 
@@ -59,11 +72,13 @@ https://git-scm.com/docs/git-ls-files[`ls-files`]
 
 https://git-scm.com/docs/git-ls-tree[`ls-tree`]
 
+https://stackoverflow.com/questions/68738375/can-git-ls-tree-list-the-index[Can git ls-tree list the index?] | Stack Overflow
+
+=== Log and reflog
+
 https://git-scm.com/docs/git-log[`git-log`]
 
 https://git-scm.com/docs/git-reflog[`git-reflog`]
-
-https://stackoverflow.com/questions/68738375/can-git-ls-tree-list-the-index[Can git ls-tree list the index?] | Stack Overflow
 
 https://www.baeldung.com/ops/git-commit-search-string[Searching for a String in Git Commits] | Baeldung
 
@@ -92,15 +107,6 @@ https://git-scm.com/docs/git#_identifier_terminology[Git Identifier Terminology]
 https://git-scm.com/docs/gitrevisions[`git-revisions`] (https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitrevisions.html[also available here])
 
 https://git-scm.com/docs/git-rev-parse[`git rev-parse`]
-
-=== Tags
-
-.Scott Chacon, Ben Straub. Git - Book
-* https://git-scm.com/book/en/v2/Git-Basics-Tagging[Chapter 2.6: Tagging]
-
-https://git-scm.com/docs/git-tag[`git tag`]
-
-https://stackoverflow.com/questions/4971746/why-should-i-care-about-lightweight-vs-annotated-tags[Why should I care about lightweight vs. annotated tags?] | Stack Overflow
 
 === Ignoring things and cleaning untracked stuff
 
@@ -155,10 +161,12 @@ http://kdiff3.sourceforge.net/[KDiff3]
 https://scootersoftware.com/[Beyond Compare]
 
 
-== Setup
+== Configuration
 
 https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
 * Chapter 8.1 https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration[Customizing Git - Git Configuration]
+
+https://git-scm.com/docs/git-config[`git-config`]
 
 https://stackoverflow.com/questions/4050905/changing-gitconfig-location-on-windows[Changing .gitconfig location on Windows] | Stack Overflow
 
@@ -236,10 +244,12 @@ https://developercertificate.org/[Developer Certificate of Origin]
 Robert Martin (2019) Clean Agile: Back to Basics +
 * Chapter 1: Introduction to agile
 
-https://martinfowler.com/articles/branching-patterns.html[Patterns for Managing Source Code Branches] | Martin Fowler
-
 https://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html[Continuous Integration on a Dollar a Day]
 | James Shore
+
+https://martinfowler.com/articles/branching-patterns.html[Patterns for Managing Source Code Branches] | Martin Fowler
+
+https://martinfowler.com/articles/continuousIntegration.html[Continuous Integration] | Martin Fowler
 
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow[Gitflow Workflow]
 | Atlassian
