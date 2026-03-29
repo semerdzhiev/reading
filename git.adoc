@@ -108,6 +108,8 @@ https://git-scm.com/docs/gitrevisions[`git-revisions`] (https://mirrors.edge.ker
 
 https://git-scm.com/docs/git-rev-parse[`git rev-parse`]
 
+https://en.wikibooks.org/wiki/Regular_Expressions/POSIX_Basic_Regular_Expressions[Regular Expressions/POSIX Basic Regular Expressions] | WikiBooks
+
 === Ignoring things and cleaning untracked stuff
 
 https://www.atlassian.com/git/tutorials/saving-changes/gitignore[gitignore] | Atlassian
