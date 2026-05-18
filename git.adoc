@@ -230,7 +230,7 @@ https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-
 https://git-scm.com/book/en/v2[Git - Book] | Scott Chacon, Ben Straub +
 * 7.4 Git Tools – https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work[Signing Your Work] | Git - Book
 
-https://medium.com/@rwieruch/why-and-how-you-should-sign-all-your-git-commits-3b5ad0e6d6c2[Why and How You Should Sign All Your Git Commits]] | Robin Wieruch (2022)
+https://medium.com/better-programming/why-and-how-you-should-sign-all-your-git-commits-94435516edae[Why and How You Should Sign All Your Git Commits]] | Richard Dubniczky (2022)
 
 https://stackoverflow.com/questions/1962094/what-is-the-sign-off-feature-in-git-for[What is the “sign-off” feature in Git for?] | Stack Overflow
 
